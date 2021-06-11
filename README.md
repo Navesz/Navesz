@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NavesR
+- 👋 Hi, I’m Naves
 - 👀 I’m interested in JavaScript, Python, games, React-native and Robotics
 - 🌱 I’m currently learning React-native
 - 💞️ I’m looking to collaborate on the universe
