@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Naves
+# 👋 Hi, I’m Naves
 
 <!---
 NavesR/NavesR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
