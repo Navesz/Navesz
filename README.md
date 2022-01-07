@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
  
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://lucasrmagalhaes.github.io/snake-js/">
     <img 
          src="https://github.com/lucasrmagalhaes/snake-js/blob/master/img/snake.gif?raw=true" 
@@ -36,4 +36,4 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
   <br />
-</p>
+</p> -->
