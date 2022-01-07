@@ -36,5 +36,4 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
   <br />
-  <i>Nostálgico jogo da cobrinha desenvolvido em JavaScript.</i>
 </p>
