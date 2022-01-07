@@ -27,3 +27,14 @@ You can click the Preview link to take a look at your changes.
   ![Snake animation](https://github.com/Navesz/Navesz/blob/output/github-contribution-grid-snake.svg) 
  
 </div>
+
+<p align="center">
+  <a href="https://lucasrmagalhaes.github.io/snake-js/">
+    <img 
+         src="https://github.com/lucasrmagalhaes/snake-js/blob/master/img/snake.gif?raw=true" 
+         alt="Snake Game" 
+    />
+  </a>
+  <br />
+  <i>Nostálgico jogo da cobrinha desenvolvido em JavaScript.</i>
+</p>
