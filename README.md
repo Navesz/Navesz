@@ -18,7 +18,7 @@ dependency-free script reads the GitHub GraphQL API and draws every pixel you se
 <!-- gen:snapshot -->
 > **Live snapshot** · 488 contributions in the last 365 days · 163 commits · 73 pull requests · 6 repositories touched in the last 90 days · current streak 3 days.
 >
-> Rendered 2026-08-12 22:41 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
+> Rendered 2026-08-12 22:43 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
 <!-- /gen:snapshot -->
 
 ## Selected work
@@ -101,7 +101,8 @@ A scheduled GitHub Action runs [`tools/render`](tools/render) every six hours:
 3. Three SVG panels are drawn from scratch in light and dark variants, with the CSS and SMIL
    animation baked directly into each file.
 4. `llms.txt`, `profile.json` and the generated blocks in this README are rewritten.
-5. If anything changed, the Action commits the result.
+5. A fingerprint of the underlying data decides whether any of that gets committed, so a quiet
+   week costs zero commits instead of four a day of timestamp churn.
 
 No runtime dependencies and no external image services. If GitHub is up, this page is accurate.
 
