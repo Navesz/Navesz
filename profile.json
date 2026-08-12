@@ -1,0 +1,158 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "kind": "github-profile-manifest",
+  "version": 1,
+  "generatedAt": "2026-08-12T22:39:09.158Z",
+  "generator": "tools/render (no third-party services)",
+  "identity": {
+    "handle": "Navesz",
+    "alias": "NAVES",
+    "headline": "I build web products, developer tools and open-source experiments.",
+    "summary": "Software developer focused on TypeScript, Next.js and Node. I build web products, internal tooling and open-source experiments — usually the kind that turn a messy manual process into something a browser can do in one click.",
+    "interests": [
+      "front-end architecture",
+      "developer tooling",
+      "local-first apps",
+      "simulation and physics toys",
+      "automation"
+    ],
+    "languagePreference": "English for code and docs, Portuguese natively"
+  },
+  "stack": {
+    "primary": "TypeScript",
+    "spectrum": [
+      {
+        "name": "TypeScript",
+        "share": 0.4588,
+        "bytes": 992170
+      },
+      {
+        "name": "JavaScript",
+        "share": 0.2113,
+        "bytes": 456863
+      },
+      {
+        "name": "Java",
+        "share": 0.0908,
+        "bytes": 196300
+      },
+      {
+        "name": "CSS",
+        "share": 0.0696,
+        "bytes": 150561
+      },
+      {
+        "name": "Python",
+        "share": 0.0646,
+        "bytes": 139702
+      },
+      {
+        "name": "HTML",
+        "share": 0.0357,
+        "bytes": 77135
+      },
+      {
+        "name": "Other",
+        "share": 0.0692,
+        "bytes": 149641
+      }
+    ]
+  },
+  "activity": {
+    "contributions": 487,
+    "commits": 162,
+    "pullRequests": 73,
+    "issues": 26,
+    "publicRepos": 57,
+    "languages": 21,
+    "currentStreak": 3,
+    "longestStreak": 5,
+    "avgPerWeek": 9.2,
+    "activeRepos": 6
+  },
+  "projects": [
+    {
+      "name": "OpenKartline",
+      "repo": "openkartline",
+      "url": "https://github.com/Navesz/openkartline",
+      "summary": "Racing-line planner and lap-time simulator. Draw a track, get the optimal line, a speed profile, braking points and an estimated lap time.",
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [
+        "karting",
+        "motorsport",
+        "python",
+        "racing-line",
+        "react",
+        "trajectory-optimization",
+        "vehicle-dynamics",
+        "fastapi"
+      ],
+      "lastPush": "2026-08-12T03:22:55Z"
+    },
+    {
+      "name": "OpenParts",
+      "repo": "openparts",
+      "url": "https://github.com/Navesz/openparts",
+      "summary": "Local-first parts interchange lab. Cross-reference automotive part numbers entirely in the browser, with no backend to depend on.",
+      "language": "Svelte",
+      "stars": 0,
+      "topics": [],
+      "lastPush": "2026-08-09T01:31:31Z"
+    },
+    {
+      "name": "Constellation",
+      "repo": "constellation",
+      "url": "https://github.com/Navesz/constellation",
+      "summary": "An observatory for public GitHub signals — profiles, achievements and activity, measured honestly instead of gamified.",
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [
+        "achievements",
+        "cloudflare-workers",
+        "github",
+        "nextjs",
+        "typescript"
+      ],
+      "lastPush": "2026-08-07T09:49:54Z"
+    },
+    {
+      "name": "Galegos",
+      "repo": "Galegos",
+      "url": "https://github.com/Navesz/Galegos",
+      "summary": "Digital menu that hands the finished order off to WhatsApp. Built for a real kitchen, so it had to survive real customers.",
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "lastPush": "2026-08-01T23:51:09Z"
+    },
+    {
+      "name": "Speech → Text Translator",
+      "repo": "tradutor-voz-texto",
+      "url": "https://github.com/Navesz/tradutor-voz-texto",
+      "summary": "Real-time speech-to-text translation running straight in the browser.",
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "lastPush": "2025-03-25T02:34:08Z"
+    },
+    {
+      "name": "Realistic Injuries",
+      "repo": "fivem-realistic-injuries",
+      "url": "https://github.com/Navesz/fivem-realistic-injuries",
+      "summary": "FiveM mod that models injuries per body region instead of a single health bar.",
+      "language": "Lua",
+      "stars": 1,
+      "topics": [],
+      "lastPush": "2025-04-13T20:54:17Z"
+    }
+  ],
+  "links": {
+    "github": "https://github.com/Navesz"
+  },
+  "agentNotes": [
+    "Project summaries are authored by the profile owner; numbers are machine-generated.",
+    "This file is regenerated on a schedule, so prefer it over scraping the rendered README.",
+    "Nothing here is private: every field derives from public GitHub data."
+  ]
+}

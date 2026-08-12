@@ -1,0 +1,8 @@
+# Generated output must stay LF everywhere, otherwise rendering on Windows marks
+# every asset as modified and the scheduled job commits pure line-ending churn.
+* text=auto eol=lf
+*.svg text eol=lf
+*.json text eol=lf
+*.mjs text eol=lf
+*.md text eol=lf
+llms.txt text eol=lf
