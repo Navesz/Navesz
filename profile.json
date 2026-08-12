@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "kind": "github-profile-manifest",
   "version": 1,
-  "generatedAt": "2026-08-12T22:44:14.673Z",
+  "generatedAt": "2026-08-12T23:54:50.571Z",
   "generator": "tools/render (no third-party services)",
   "identity": {
     "handle": "Navesz",
@@ -23,51 +23,51 @@
     "spectrum": [
       {
         "name": "TypeScript",
-        "share": 0.4588,
-        "bytes": 992170
+        "share": 0.6564,
+        "bytes": 866649
       },
       {
         "name": "JavaScript",
-        "share": 0.2113,
-        "bytes": 456863
-      },
-      {
-        "name": "Java",
-        "share": 0.0908,
-        "bytes": 196300
-      },
-      {
-        "name": "CSS",
-        "share": 0.0696,
-        "bytes": 150561
+        "share": 0.1154,
+        "bytes": 152383
       },
       {
         "name": "Python",
-        "share": 0.0646,
-        "bytes": 139702
+        "share": 0.0929,
+        "bytes": 122624
       },
       {
-        "name": "HTML",
-        "share": 0.0357,
-        "bytes": 77135
+        "name": "CSS",
+        "share": 0.0758,
+        "bytes": 100025
+      },
+      {
+        "name": "Lua",
+        "share": 0.0349,
+        "bytes": 46053
+      },
+      {
+        "name": "Svelte",
+        "share": 0.0208,
+        "bytes": 27525
       },
       {
         "name": "Other",
-        "share": 0.0692,
-        "bytes": 149641
+        "share": 0.0038,
+        "bytes": 5068
       }
     ]
   },
   "activity": {
-    "contributions": 489,
-    "commits": 164,
-    "pullRequests": 73,
+    "contributions": 491,
+    "commits": 165,
+    "pullRequests": 74,
     "issues": 26,
-    "publicRepos": 57,
-    "languages": 21,
+    "publicRepos": 9,
+    "languages": 9,
     "currentStreak": 3,
     "longestStreak": 5,
-    "avgPerWeek": 9.2,
+    "avgPerWeek": 9.3,
     "activeRepos": 6
   },
   "projects": [
@@ -97,7 +97,14 @@
       "summary": "Local-first parts interchange lab. Cross-reference automotive part numbers entirely in the browser, with no backend to depend on.",
       "language": "Svelte",
       "stars": 0,
-      "topics": [],
+      "topics": [
+        "automotive",
+        "local-first",
+        "offline-first",
+        "parts-catalog",
+        "svelte",
+        "typescript"
+      ],
       "lastPush": "2026-08-09T01:31:31Z"
     },
     {
@@ -123,8 +130,15 @@
       "summary": "Digital menu that hands the finished order off to WhatsApp. Built for a real kitchen, so it had to survive real customers.",
       "language": "TypeScript",
       "stars": 0,
-      "topics": [],
-      "lastPush": "2026-08-01T23:51:09Z"
+      "topics": [
+        "digital-menu",
+        "nextjs",
+        "qr-menu",
+        "restaurant",
+        "typescript",
+        "whatsapp"
+      ],
+      "lastPush": "2026-08-12T23:53:45Z"
     },
     {
       "name": "Speech → Text Translator",
@@ -133,7 +147,13 @@
       "summary": "Real-time speech-to-text translation running straight in the browser.",
       "language": "TypeScript",
       "stars": 0,
-      "topics": [],
+      "topics": [
+        "realtime",
+        "speech-to-text",
+        "translation",
+        "typescript",
+        "web-speech-api"
+      ],
       "lastPush": "2025-03-25T02:34:08Z"
     },
     {
@@ -143,7 +163,13 @@
       "summary": "FiveM mod that models injuries per body region instead of a single health bar.",
       "language": "Lua",
       "stars": 1,
-      "topics": [],
+      "topics": [
+        "fivem",
+        "game-mod",
+        "gta5",
+        "lua",
+        "roleplay"
+      ],
       "lastPush": "2025-04-13T20:54:17Z"
     }
   ],
