@@ -1,5 +1,6 @@
 #!/usr/bin/env node
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { createHash } from "node:crypto";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -242,7 +243,30 @@ ${model.languages.list
   write(join(ROOT, "llms.txt"), llms);
 }
 
+const STATE_FILE = join(ROOT, "assets", ".render-state.json");
+
+/**
+ * Fingerprints everything that can legitimately change the output, so an idle
+ * profile stops rewriting files. Without this the scheduled job would commit a
+ * fresh timestamp four times a day forever. The UTC date is part of the input on
+ * purpose: relative labels like "updated 3d ago" have to stay truthful, so a new
+ * day is a real change even when nothing was pushed.
+ */
+function fingerprint(model) {
+  const canonical = {
+    day: model.generatedAtIso.slice(0, 10),
+    stats: model.stats,
+    languages: model.languages.list.map((l) => [l.name, l.bytes]),
+    repos: model.constellation.map((r) => [r.name, r.pushedAt, r.stars]),
+    featured: model.featured.map((p) => [p.repo, p.pushedAt, p.stars, p.blurb]),
+    identity,
+  };
+  return createHash("sha256").update(JSON.stringify(canonical)).digest("hex");
+}
+
 async function main() {
+  const force = process.argv.includes("--force");
+
   console.log(`Fetching public profile data for ${login}...`);
   const user = await fetchProfile(login, token);
   const model = buildModel(user);
@@ -251,6 +275,15 @@ async function main() {
     `  ${model.stats.contributions} contributions · ${model.repos.length} public repos · ` +
       `${model.languages.distinct} languages`,
   );
+
+  const hash = fingerprint(model);
+  if (!force && existsSync(STATE_FILE)) {
+    const previous = JSON.parse(readFileSync(STATE_FILE, "utf8"));
+    if (previous.fingerprint === hash) {
+      console.log("Nothing meaningful changed since the last render. Skipping write.");
+      return;
+    }
+  }
 
   mkdirSync(ASSETS, { recursive: true });
 
@@ -268,6 +301,10 @@ async function main() {
 
   renderManifest(model);
   injectBlocks(model);
+  write(
+    STATE_FILE,
+    `${JSON.stringify({ fingerprint: hash, renderedAt: model.generatedAtIso }, null, 2)}\n`,
+  );
   console.log("Done.");
 }
 
