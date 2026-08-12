@@ -1,0 +1,13 @@
+{
+  "name": "profile-renderer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Zero-dependency renderer for the profile README: generative SVG panels and machine-readable manifests, built from the GitHub GraphQL API.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "render": "node render.mjs"
+  }
+}

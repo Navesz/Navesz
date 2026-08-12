@@ -1,0 +1,49 @@
+name: Render profile
+
+on:
+  schedule:
+    # Every six hours, offset so it never collides with the top-of-hour rush.
+    - cron: "17 */6 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "tools/render/**"
+      - ".github/workflows/render.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: render-profile
+  cancel-in-progress: true
+
+jobs:
+  render:
+    name: Draw panels and manifests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Render
+        env:
+          # The default token is enough: everything queried here is public data.
+          # Swap in a PAT as PROFILE_TOKEN if private contribution counts are wanted.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+        run: node tools/render/render.mjs
+
+      - name: Commit if anything moved
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets profile.json llms.txt README.md
+          if git diff --cached --quiet; then
+            echo "Nothing changed since the last render."
+          else
+            git commit -m "chore(profile): re-render panels and manifests"
+            git push
+          fi
