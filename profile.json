@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "kind": "github-profile-manifest",
   "version": 1,
-  "generatedAt": "2026-08-12T23:54:50.571Z",
+  "generatedAt": "2026-08-13T02:44:16.694Z",
   "generator": "tools/render (no third-party services)",
   "identity": {
     "handle": "Navesz",
@@ -23,52 +23,52 @@
     "spectrum": [
       {
         "name": "TypeScript",
-        "share": 0.6564,
-        "bytes": 866649
+        "share": 0.6547,
+        "bytes": 886639
       },
       {
         "name": "JavaScript",
-        "share": 0.1154,
-        "bytes": 152383
+        "share": 0.1152,
+        "bytes": 156073
       },
       {
         "name": "Python",
-        "share": 0.0929,
+        "share": 0.0905,
         "bytes": 122624
       },
       {
         "name": "CSS",
-        "share": 0.0758,
-        "bytes": 100025
+        "share": 0.0787,
+        "bytes": 106616
       },
       {
         "name": "Lua",
-        "share": 0.0349,
+        "share": 0.034,
         "bytes": 46053
       },
       {
         "name": "Svelte",
-        "share": 0.0208,
+        "share": 0.0203,
         "bytes": 27525
       },
       {
         "name": "Other",
-        "share": 0.0038,
-        "bytes": 5068
+        "share": 0.0064,
+        "bytes": 8724
       }
     ]
   },
   "activity": {
-    "contributions": 491,
-    "commits": 165,
+    "contributions": 493,
+    "commits": 166,
     "pullRequests": 74,
     "issues": 26,
-    "publicRepos": 9,
+    "publicRepos": 10,
     "languages": 9,
-    "currentStreak": 3,
+    "currentStreak": 4,
     "longestStreak": 5,
     "avgPerWeek": 9.3,
-    "activeRepos": 6
+    "activeRepos": 7
   },
   "projects": [
     {
