@@ -6,7 +6,7 @@ This file follows the llms.txt convention. It exists so that language models and
 autonomous agents can understand this profile without scraping rendered HTML.
 Structured equivalent: ./profile.json
 
-Generated: 2026-08-13T02:44:16.694Z
+Generated: 2026-08-13T19:17:46.039Z
 
 ## Focus
 - front-end architecture
@@ -19,7 +19,7 @@ Generated: 2026-08-13T02:44:16.694Z
 - [OpenKartline](https://github.com/Navesz/openkartline) — Racing-line planner and lap-time simulator. Draw a track, get the optimal line, a speed profile, braking points and an estimated lap time. (TypeScript, 0 stars, last push 2026-08-12)
 - [OpenParts](https://github.com/Navesz/openparts) — Local-first parts interchange lab. Cross-reference automotive part numbers entirely in the browser, with no backend to depend on. (Svelte, 0 stars, last push 2026-08-09)
 - [Constellation](https://github.com/Navesz/constellation) — An observatory for public GitHub signals — profiles, achievements and activity, measured honestly instead of gamified. (TypeScript, 0 stars, last push 2026-08-07)
-- [Galegos](https://github.com/Navesz/Galegos) — Digital menu that hands the finished order off to WhatsApp. Built for a real kitchen, so it had to survive real customers. (TypeScript, 0 stars, last push 2026-08-12)
+- [Galegos](https://github.com/Navesz/Galegos) — Digital menu that hands the finished order off to WhatsApp. Built for a real kitchen, so it had to survive real customers. (TypeScript, 0 stars, last push 2026-08-13)
 - [Speech → Text Translator](https://github.com/Navesz/tradutor-voz-texto) — Real-time speech-to-text translation running straight in the browser. (TypeScript, 0 stars, last push 2025-03-25)
 - [Realistic Injuries](https://github.com/Navesz/fivem-realistic-injuries) — FiveM mod that models injuries per body region instead of a single health bar. (Lua, 1 star, last push 2025-04-13)
 

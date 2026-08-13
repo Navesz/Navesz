@@ -117,10 +117,10 @@
               <animate attributeName="opacity" values="0.6;0" dur="3.4s"
                 begin="1.1s" repeatCount="indefinite"/>
             </circle><g class="node" style="animation-delay:-3.63s">
-        <circle cx="755.33" cy="218.12" r="23.72" fill="#662ed8" opacity="0.13"/>
-        <circle cx="755.33" cy="218.12" r="6.59" fill="#662ed8"/>
-      </g><circle cx="755.33" cy="218.12" r="6.59" fill="none" stroke="#662ed8" stroke-width="0.9">
-              <animate attributeName="r" values="6.59;25.59" dur="3.4s"
+        <circle cx="755.33" cy="218.12" r="23.8" fill="#672dd8" opacity="0.13"/>
+        <circle cx="755.33" cy="218.12" r="6.61" fill="#672dd8"/>
+      </g><circle cx="755.33" cy="218.12" r="6.61" fill="none" stroke="#672dd8" stroke-width="0.9">
+              <animate attributeName="r" values="6.61;25.61" dur="3.4s"
                 begin="2.2s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.6;0" dur="3.4s"
                 begin="2.2s" repeatCount="indefinite"/>
@@ -145,19 +145,19 @@
       </g>
     
     <g opacity="0.85">
-      <circle cx="866.63" cy="201.21" r="11" fill="none"
+      <circle cx="755.33" cy="218.12" r="11" fill="none"
         stroke="#0284c7" stroke-width="0.9" stroke-dasharray="4 4">
         <animateTransform attributeName="transform" type="rotate"
-          from="0 866.63 201.21" to="360 866.63 201.21"
+          from="0 755.33 218.12" to="360 755.33 218.12"
           dur="14s" repeatCount="indefinite"/>
       </circle>
-      <path d="M 866.63 213.21 L 866.63 300 L 784 300"
+      <path d="M 755.33 230.12 L 755.33 300 L 784 300"
         fill="none" stroke="#0284c7" stroke-width="0.7" opacity="0.35"/>
-      <circle cx="866.63" cy="300" r="1.6" fill="#0284c7" opacity="0.6"/>
+      <circle cx="755.33" cy="300" r="1.6" fill="#0284c7" opacity="0.6"/>
     </g>
     <text x="976" y="303.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5"
       fill="#5c6b83" letter-spacing="0.6">last signal
-      <tspan fill="#0284c7">navesz.github.io</tspan>
+      <tspan fill="#0284c7">Galegos</tspan>
       <tspan fill="#8493a9">· today</tspan></text>
     <rect x="-170" y="0" width="170" height="350" fill="url(#sweep)">
       <animate attributeName="x" values="-170;1000" dur="12s" repeatCount="indefinite"/>
@@ -215,7 +215,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#d3dcea" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#059669" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#8493a9" letter-spacing="0.8">9 repositories mapped · rendered 2026-08-13 02:44 UTC</text>
+        fill="#8493a9" letter-spacing="0.8">9 repositories mapped · rendered 2026-08-13 19:17 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#8493a9" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>

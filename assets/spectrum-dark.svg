@@ -36,9 +36,9 @@
   <rect x="56" y="56" width="888" height="28" rx="14"
     fill="#0e1526" stroke="#233047" stroke-width="1"/>
   <g clip-path="url(#rounded)">
-    <g class="wipe"><rect x="56" y="56" width="579.38" height="28"
-          fill="#5690d0"/><rect x="637.38" y="56" width="100.34" height="28"
-          fill="#f1e05a"/><rect x="739.72" y="56" width="78.41" height="28"
+    <g class="wipe"><rect x="56" y="56" width="579.39" height="28"
+          fill="#5690d0"/><rect x="637.39" y="56" width="100.34" height="28"
+          fill="#f1e05a"/><rect x="739.73" y="56" width="78.4" height="28"
           fill="#598bb5"/><rect x="820.13" y="56" width="67.91" height="28"
           fill="#9976ba"/><rect x="890.04" y="56" width="28.2" height="28"
           fill="#8c8cc6"/><rect x="920.24" y="56" width="16.05" height="28"
@@ -47,7 +47,7 @@
     <g class="fade"><text x="345.7" y="73.6"
         text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700"
         fill="#ffffff"
-        >65.5%</text><text x="687.5" y="73.6"
+        >65.5%</text><text x="687.6" y="73.6"
         text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700"
         fill="#08101f"
         >11.5%</text><text x="778.9" y="73.6"
