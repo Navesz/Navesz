@@ -90,11 +90,11 @@
         style="animation-delay:-1.4s"/><line x1="805.35" y1="104.02" x2="876.23" y2="118.04" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.191" class="flow"
         style="animation-delay:-1.75s"/><line x1="833.65" y1="230.7" x2="769.66" y2="261.81" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.096" class="flow"
+        stroke-width="0.7" opacity="0.097" class="flow"
         style="animation-delay:-2.1s"/><line x1="694.64" y1="153.67" x2="772.58" y2="148.97" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.212" class="flow"
         style="animation-delay:-2.45s"/><line x1="769.66" y1="261.81" x2="742.54" y2="196.2" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.096" class="flow"
+        stroke-width="0.7" opacity="0.097" class="flow"
         style="animation-delay:-2.8s"/><line x1="735.14" y1="75.79" x2="805.35" y2="104.02" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.091" class="flow"
         style="animation-delay:-3.15s"/><line x1="735.14" y1="75.79" x2="772.58" y2="148.97" stroke="#5ee7ff"
@@ -215,7 +215,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#233047" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#3ddc97" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#5a6880" letter-spacing="0.8">9 repositories mapped · rendered 2026-08-13 19:17 UTC</text>
+        fill="#5a6880" letter-spacing="0.8">9 repositories mapped · rendered 2026-08-14 02:43 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#5a6880" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
