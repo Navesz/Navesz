@@ -6,7 +6,7 @@ This file follows the llms.txt convention. It exists so that language models and
 autonomous agents can understand this profile without scraping rendered HTML.
 Structured equivalent: ./profile.json
 
-Generated: 2026-08-13T19:17:46.039Z
+Generated: 2026-08-14T02:43:42.126Z
 
 ## Focus
 - front-end architecture
