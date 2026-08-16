@@ -134,14 +134,14 @@
         <circle cx="694.64" cy="153.67" r="23.22" fill="#9b9afb" opacity="0.13"/>
         <circle cx="694.64" cy="153.67" r="6.45" fill="#9b9afb"/>
       </g><g class="node" style="animation-delay:-3.16s">
-        <circle cx="876.23" cy="118.04" r="21.13" fill="#80bcfd" opacity="0.13"/>
-        <circle cx="876.23" cy="118.04" r="5.87" fill="#80bcfd"/>
+        <circle cx="876.23" cy="118.04" r="21.1" fill="#80bcfd" opacity="0.13"/>
+        <circle cx="876.23" cy="118.04" r="5.86" fill="#80bcfd"/>
       </g><g class="node" style="animation-delay:-0.74s">
-        <circle cx="769.66" cy="261.81" r="11.38" fill="#49e0bb" opacity="0.13"/>
-        <circle cx="769.66" cy="261.81" r="3.16" fill="#49e0bb"/>
+        <circle cx="769.66" cy="261.81" r="11.38" fill="#49e0bc" opacity="0.13"/>
+        <circle cx="769.66" cy="261.81" r="3.16" fill="#49e0bc"/>
       </g><g class="node" style="animation-delay:-2.65s">
-        <circle cx="735.14" cy="75.79" r="10.76" fill="#47dfb5" opacity="0.13"/>
-        <circle cx="735.14" cy="75.79" r="2.99" fill="#47dfb5"/>
+        <circle cx="735.14" cy="75.79" r="10.76" fill="#47dfb6" opacity="0.13"/>
+        <circle cx="735.14" cy="75.79" r="2.99" fill="#47dfb6"/>
       </g>
     
     <g opacity="0.85">
@@ -158,7 +158,7 @@
     <text x="976" y="303.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5"
       fill="#8b9ab5" letter-spacing="0.6">last signal
       <tspan fill="#5ee7ff">Galegos</tspan>
-      <tspan fill="#5a6880">· 1d ago</tspan></text>
+      <tspan fill="#5a6880">· 2d ago</tspan></text>
     <rect x="-170" y="0" width="170" height="350" fill="url(#sweep)">
       <animate attributeName="x" values="-170;1000" dur="12s" repeatCount="indefinite"/>
     </rect>
@@ -215,7 +215,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#233047" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#3ddc97" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#5a6880" letter-spacing="0.8">9 repositories mapped · rendered 2026-08-15 01:47 UTC</text>
+        fill="#5a6880" letter-spacing="0.8">9 repositories mapped · rendered 2026-08-16 01:55 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#5a6880" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
