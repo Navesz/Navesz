@@ -82,13 +82,13 @@
         style="animation-delay:0s"/><line x1="772.58" y1="148.97" x2="742.54" y2="196.2" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.217" class="flow"
         style="animation-delay:-0.35s"/><line x1="844.38" y1="168.06" x2="876.23" y2="118.04" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.191" class="flow"
+        stroke-width="0.7" opacity="0.19" class="flow"
         style="animation-delay:-0.7s"/><line x1="844.38" y1="168.06" x2="833.65" y2="230.7" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.213" class="flow"
         style="animation-delay:-1.05s"/><line x1="742.54" y1="196.2" x2="694.64" y2="153.67" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.211" class="flow"
         style="animation-delay:-1.4s"/><line x1="805.35" y1="104.02" x2="876.23" y2="118.04" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.191" class="flow"
+        stroke-width="0.7" opacity="0.19" class="flow"
         style="animation-delay:-1.75s"/><line x1="833.65" y1="230.7" x2="769.66" y2="261.81" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.098" class="flow"
         style="animation-delay:-2.1s"/><line x1="694.64" y1="153.67" x2="772.58" y2="148.97" stroke="#5ee7ff"
@@ -158,7 +158,7 @@
     <text x="976" y="303.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5"
       fill="#8b9ab5" letter-spacing="0.6">last signal
       <tspan fill="#5ee7ff">Galegos</tspan>
-      <tspan fill="#5a6880">· 7d ago</tspan></text>
+      <tspan fill="#5a6880">· 8d ago</tspan></text>
     <rect x="-170" y="0" width="170" height="350" fill="url(#sweep)">
       <animate attributeName="x" values="-170;1000" dur="12s" repeatCount="indefinite"/>
     </rect>
@@ -189,7 +189,7 @@
       <g>
         
     <text x="56" y="278" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700"
-      fill="#e8eefb" letter-spacing="-0.2">537</text>
+      fill="#e8eefb" letter-spacing="-0.2">538</text>
     <text x="56" y="295" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
       fill="#5a6880" letter-spacing="1.6">CONTRIBUTIONS / 365D</text>
         
@@ -215,7 +215,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#233047" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#3ddc97" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#5a6880" letter-spacing="0.8">9 repositories mapped · rendered 2026-08-21 01:55 UTC</text>
+        fill="#5a6880" letter-spacing="0.8">9 repositories mapped · rendered 2026-08-21 18:53 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#5a6880" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
