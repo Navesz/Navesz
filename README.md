@@ -18,22 +18,22 @@ dependency-free script reads the GitHub GraphQL API and draws every pixel you se
 <!-- gen:snapshot -->
 > **Live snapshot** · 548 contributions in the last 365 days · 166 commits · 74 pull requests · 7 repositories touched in the last 90 days · current streak 0 days.
 >
-> Rendered 2026-08-23 01:57 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
+> Rendered 2026-08-24 01:55 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
 <!-- /gen:snapshot -->
 
 ## Selected work
 
 <!-- gen:work -->
-**[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated 10d ago  
+**[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated 11d ago  
 Racing-line planner and lap-time simulator. Draw a track, get the optimal line, a speed profile, braking points and an estimated lap time.
 
-**[OpenParts](https://github.com/Navesz/openparts)** — `Svelte` · updated 14d ago  
+**[OpenParts](https://github.com/Navesz/openparts)** — `Svelte` · updated 15d ago  
 Local-first parts interchange lab. Cross-reference automotive part numbers entirely in the browser, with no backend to depend on.
 
-**[Constellation](https://github.com/Navesz/constellation)** — `TypeScript` · updated 15d ago  
+**[Constellation](https://github.com/Navesz/constellation)** — `TypeScript` · updated 16d ago  
 An observatory for public GitHub signals — profiles, achievements and activity, measured honestly instead of gamified.
 
-**[Galegos](https://github.com/Navesz/Galegos)** — `TypeScript` · updated 9d ago  
+**[Galegos](https://github.com/Navesz/Galegos)** — `TypeScript` · updated 10d ago  
 Digital menu that hands the finished order off to WhatsApp. Built for a real kitchen, so it had to survive real customers.
 
 **[Speech → Text Translator](https://github.com/Navesz/tradutor-voz-texto)** — `TypeScript` · updated 1y ago  
