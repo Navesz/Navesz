@@ -6,7 +6,7 @@ This file follows the llms.txt convention. It exists so that language models and
 autonomous agents can understand this profile without scraping rendered HTML.
 Structured equivalent: ./profile.json
 
-Generated: 2026-08-25T07:06:32.699Z
+Generated: 2026-08-25T13:09:26.723Z
 
 ## Focus
 - front-end architecture
@@ -25,17 +25,17 @@ Generated: 2026-08-25T07:06:32.699Z
 
 ## Stack signal (share of public code, by bytes)
 - TypeScript: 65.7%
-- JavaScript: 15.0%
-- CSS: 8.2%
-- Python: 7.2%
+- JavaScript: 14.8%
+- CSS: 8.1%
+- Python: 7.5%
 - Lua: 2.1%
 - Svelte: 1.3%
 - Other: 0.5%
 
 ## Activity (rolling 365 days)
-- contributions: 788
-- commits: 281
-- pull requests: 127
+- contributions: 814
+- commits: 294
+- pull requests: 139
 - issues: 27
 - public repositories: 12
 - longest streak: 5 days
