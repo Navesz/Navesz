@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "kind": "github-profile-manifest",
   "version": 1,
-  "generatedAt": "2026-08-25T13:09:26.723Z",
+  "generatedAt": "2026-08-26T01:56:27.645Z",
   "generator": "tools/render (no third-party services)",
   "identity": {
     "handle": "Navesz",
@@ -23,51 +23,51 @@
     "spectrum": [
       {
         "name": "TypeScript",
-        "share": 0.6572,
-        "bytes": 1439091
+        "share": 0.6666,
+        "bytes": 1533226
       },
       {
         "name": "JavaScript",
-        "share": 0.1477,
-        "bytes": 323348
+        "share": 0.1423,
+        "bytes": 327341
       },
       {
         "name": "CSS",
-        "share": 0.0811,
-        "bytes": 177556
+        "share": 0.0816,
+        "bytes": 187638
       },
       {
         "name": "Python",
-        "share": 0.0753,
-        "bytes": 164959
+        "share": 0.0726,
+        "bytes": 167084
       },
       {
         "name": "Lua",
-        "share": 0.021,
+        "share": 0.02,
         "bytes": 46053
       },
       {
         "name": "Svelte",
-        "share": 0.0126,
+        "share": 0.012,
         "bytes": 27525
       },
       {
         "name": "Other",
-        "share": 0.0051,
-        "bytes": 11179
+        "share": 0.0049,
+        "bytes": 11186
       }
     ]
   },
   "activity": {
-    "contributions": 814,
-    "commits": 294,
-    "pullRequests": 139,
+    "contributions": 902,
+    "commits": 334,
+    "pullRequests": 145,
     "issues": 27,
     "publicRepos": 12,
     "languages": 11,
     "currentStreak": 2,
     "longestStreak": 5,
-    "avgPerWeek": 15.4,
+    "avgPerWeek": 17,
     "activeRepos": 9
   },
   "projects": [
@@ -88,7 +88,7 @@
         "vehicle-dynamics",
         "fastapi"
       ],
-      "lastPush": "2026-08-25T09:10:55Z"
+      "lastPush": "2026-08-26T01:02:27Z"
     },
     {
       "name": "OpenParts",
@@ -121,7 +121,7 @@
         "nextjs",
         "typescript"
       ],
-      "lastPush": "2026-08-24T08:01:38Z"
+      "lastPush": "2026-08-25T22:00:15Z"
     },
     {
       "name": "Galegos",
@@ -138,7 +138,7 @@
         "typescript",
         "whatsapp"
       ],
-      "lastPush": "2026-08-13T14:48:26Z"
+      "lastPush": "2026-08-25T21:59:58Z"
     },
     {
       "name": "Speech → Text Translator",
