@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "kind": "github-profile-manifest",
   "version": 1,
-  "generatedAt": "2026-08-26T01:56:27.645Z",
+  "generatedAt": "2026-08-27T09:40:44.459Z",
   "generator": "tools/render (no third-party services)",
   "identity": {
     "handle": "Navesz",
@@ -65,7 +65,7 @@
     "issues": 27,
     "publicRepos": 12,
     "languages": 11,
-    "currentStreak": 2,
+    "currentStreak": 0,
     "longestStreak": 5,
     "avgPerWeek": 17,
     "activeRepos": 9
