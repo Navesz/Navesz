@@ -18,16 +18,16 @@ dependency-free script reads the GitHub GraphQL API and draws every pixel you se
 <!-- gen:snapshot -->
 > **Live snapshot** · 928 contributions in the last 365 days · 334 commits · 145 pull requests · 9 repositories touched in the last 90 days · current streak 1 days.
 >
-> Rendered 2026-08-27 22:13 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
+> Rendered 2026-08-28 11:19 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
 <!-- /gen:snapshot -->
 
 ## Selected work
 
 <!-- gen:work -->
-**[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated 1d ago  
+**[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated 2d ago  
 Racing-line planner and lap-time simulator. Draw a track, get the optimal line, a speed profile, braking points and an estimated lap time.
 
-**[OpenParts](https://github.com/Navesz/openparts)** — `Svelte` · updated 18d ago  
+**[OpenParts](https://github.com/Navesz/openparts)** — `Svelte` · updated 19d ago  
 Local-first parts interchange lab. Cross-reference automotive part numbers entirely in the browser, with no backend to depend on.
 
 **[Constellation](https://github.com/Navesz/constellation)** — `TypeScript` · updated 2d ago  
