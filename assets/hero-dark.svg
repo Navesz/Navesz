@@ -102,9 +102,9 @@
         style="animation-delay:-3.5s"/><line x1="892.72" y1="131.57" x2="816.81" y2="135.94" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.096" class="flow"
         style="animation-delay:-3.85s"/><line x1="756.94" y1="274.02" x2="793.96" y2="215.83" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.09" class="flow"
+        stroke-width="0.7" opacity="0.091" class="flow"
         style="animation-delay:-4.2s"/><line x1="756.94" y1="274.02" x2="718.37" y2="205.85" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.09" class="flow"
+        stroke-width="0.7" opacity="0.091" class="flow"
         style="animation-delay:-4.55s"/>
     <g class="node" style="animation-delay:-0.71s">
         <circle cx="759.8" cy="169.63" r="24.12" fill="#a78bfa" opacity="0.13"/>
@@ -146,11 +146,11 @@
         <circle cx="840.74" cy="241.97" r="21.82" fill="#89b1fc" opacity="0.13"/>
         <circle cx="840.74" cy="241.97" r="6.06" fill="#89b1fc"/>
       </g><g class="node" style="animation-delay:-1.26s">
-        <circle cx="691.85" cy="143.96" r="19.8" fill="#6fd1fe" opacity="0.13"/>
-        <circle cx="691.85" cy="143.96" r="5.5" fill="#6fd1fe"/>
+        <circle cx="691.85" cy="143.96" r="19.8" fill="#6fd2fe" opacity="0.13"/>
+        <circle cx="691.85" cy="143.96" r="5.5" fill="#6fd2fe"/>
       </g><g class="node" style="animation-delay:-1.94s">
-        <circle cx="892.72" cy="131.57" r="11.3" fill="#48e0bb" opacity="0.13"/>
-        <circle cx="892.72" cy="131.57" r="3.14" fill="#48e0bb"/>
+        <circle cx="892.72" cy="131.57" r="11.34" fill="#48e0bb" opacity="0.13"/>
+        <circle cx="892.72" cy="131.57" r="3.15" fill="#48e0bb"/>
       </g><g class="node" style="animation-delay:-3.99s">
         <circle cx="756.94" cy="274.02" r="10.73" fill="#47dfb5" opacity="0.13"/>
         <circle cx="756.94" cy="274.02" r="2.98" fill="#47dfb5"/>
@@ -170,7 +170,7 @@
     <text x="976" y="303.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5"
       fill="#8b9ab5" letter-spacing="0.6">last signal
       <tspan fill="#5ee7ff">openkartline</tspan>
-      <tspan fill="#5a6880">· 2d ago</tspan></text>
+      <tspan fill="#5a6880">· 3d ago</tspan></text>
     <rect x="-170" y="0" width="170" height="350" fill="url(#sweep)">
       <animate attributeName="x" values="-170;1000" dur="12s" repeatCount="indefinite"/>
     </rect>
@@ -227,7 +227,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#233047" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#3ddc97" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#5a6880" letter-spacing="0.8">11 repositories mapped · rendered 2026-08-28 11:19 UTC</text>
+        fill="#5a6880" letter-spacing="0.8">11 repositories mapped · rendered 2026-08-29 07:00 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#5a6880" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
