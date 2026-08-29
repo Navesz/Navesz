@@ -92,7 +92,7 @@
         style="animation-delay:-1.75s"/><line x1="749.85" y1="111.88" x2="691.31" y2="118.12" stroke="#0284c7"
         stroke-width="0.7" opacity="0.096" class="flow"
         style="animation-delay:-2.1s"/><line x1="873.32" y1="191.09" x2="903.73" y2="132.86" stroke="#0284c7"
-        stroke-width="0.7" opacity="0.09" class="flow"
+        stroke-width="0.7" opacity="0.091" class="flow"
         style="animation-delay:-2.45s"/><line x1="873.32" y1="191.09" x2="806.58" y2="183.52" stroke="#0284c7"
         stroke-width="0.7" opacity="0.214" class="flow"
         style="animation-delay:-2.8s"/><line x1="714.87" y1="212.7" x2="784.4" y2="222.93" stroke="#0284c7"
@@ -104,7 +104,7 @@
         style="animation-delay:-3.85s"/><line x1="691.31" y1="118.12" x2="741.8" y2="158.82" stroke="#0284c7"
         stroke-width="0.7" opacity="0.096" class="flow"
         style="animation-delay:-4.2s"/><line x1="903.73" y1="132.86" x2="834.78" y2="125.71" stroke="#0284c7"
-        stroke-width="0.7" opacity="0.09" class="flow"
+        stroke-width="0.7" opacity="0.091" class="flow"
         style="animation-delay:-4.55s"/>
     <g class="node" style="animation-delay:-0.46s">
         <circle cx="806.58" cy="183.52" r="24.12" fill="#6d28d9" opacity="0.13"/>
@@ -146,11 +146,11 @@
         <circle cx="812.9" cy="78.58" r="21.82" fill="#414ed2" opacity="0.13"/>
         <circle cx="812.9" cy="78.58" r="6.06" fill="#414ed2"/>
       </g><g class="node" style="animation-delay:-3.21s">
-        <circle cx="819.24" cy="253.03" r="19.8" fill="#1b6ecb" opacity="0.13"/>
-        <circle cx="819.24" cy="253.03" r="5.5" fill="#1b6ecb"/>
+        <circle cx="819.24" cy="253.03" r="19.8" fill="#1b6fcb" opacity="0.13"/>
+        <circle cx="819.24" cy="253.03" r="5.5" fill="#1b6fcb"/>
       </g><g class="node" style="animation-delay:-3.67s">
-        <circle cx="691.31" cy="118.12" r="11.3" fill="#049089" opacity="0.13"/>
-        <circle cx="691.31" cy="118.12" r="3.14" fill="#049089"/>
+        <circle cx="691.31" cy="118.12" r="11.34" fill="#049089" opacity="0.13"/>
+        <circle cx="691.31" cy="118.12" r="3.15" fill="#049089"/>
       </g><g class="node" style="animation-delay:-3.07s">
         <circle cx="903.73" cy="132.86" r="10.73" fill="#049184" opacity="0.13"/>
         <circle cx="903.73" cy="132.86" r="2.98" fill="#049184"/>
@@ -170,7 +170,7 @@
     <text x="976" y="303.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5"
       fill="#5c6b83" letter-spacing="0.6">last signal
       <tspan fill="#0284c7">openkartline</tspan>
-      <tspan fill="#8493a9">· 2d ago</tspan></text>
+      <tspan fill="#8493a9">· 3d ago</tspan></text>
     <rect x="-170" y="0" width="170" height="350" fill="url(#sweep)">
       <animate attributeName="x" values="-170;1000" dur="12s" repeatCount="indefinite"/>
     </rect>
@@ -227,7 +227,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#d3dcea" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#059669" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#8493a9" letter-spacing="0.8">11 repositories mapped · rendered 2026-08-28 11:19 UTC</text>
+        fill="#8493a9" letter-spacing="0.8">11 repositories mapped · rendered 2026-08-29 07:00 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#8493a9" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
