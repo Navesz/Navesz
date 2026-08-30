@@ -105,7 +105,7 @@
 
   <line x1="56" y1="142" x2="944" y2="142" stroke="#d3dcea" stroke-width="1"/>
   <text x="56" y="163" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" letter-spacing="0.8"
-    fill="#8493a9">2.4M bytes across 11 public repositories</text>
+    fill="#8493a9">2.4M bytes across 12 public repositories</text>
   <text x="944" y="163" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
     letter-spacing="1.4" fill="#8493a9">PRIMARY · TYPESCRIPT</text>
 </svg>
