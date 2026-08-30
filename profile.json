@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "kind": "github-profile-manifest",
   "version": 1,
-  "generatedAt": "2026-08-29T07:00:45.648Z",
+  "generatedAt": "2026-08-30T05:20:21.949Z",
   "generator": "tools/render (no third-party services)",
   "identity": {
     "handle": "Navesz",
@@ -23,51 +23,51 @@
     "spectrum": [
       {
         "name": "TypeScript",
-        "share": 0.6666,
-        "bytes": 1533226
+        "share": 0.6761,
+        "bytes": 1600838
       },
       {
         "name": "JavaScript",
-        "share": 0.1423,
+        "share": 0.1383,
         "bytes": 327341
       },
       {
         "name": "CSS",
-        "share": 0.0816,
+        "share": 0.0793,
         "bytes": 187638
       },
       {
         "name": "Python",
-        "share": 0.0726,
+        "share": 0.0706,
         "bytes": 167084
       },
       {
         "name": "Lua",
-        "share": 0.02,
+        "share": 0.0195,
         "bytes": 46053
       },
       {
         "name": "Svelte",
-        "share": 0.012,
+        "share": 0.0116,
         "bytes": 27525
       },
       {
         "name": "Other",
-        "share": 0.0049,
+        "share": 0.0047,
         "bytes": 11186
       }
     ]
   },
   "activity": {
-    "contributions": 928,
-    "commits": 334,
-    "pullRequests": 145,
+    "contributions": 941,
+    "commits": 336,
+    "pullRequests": 147,
     "issues": 27,
     "publicRepos": 12,
     "languages": 11,
-    "currentStreak": 0,
+    "currentStreak": 2,
     "longestStreak": 5,
-    "avgPerWeek": 17.5,
+    "avgPerWeek": 17.8,
     "activeRepos": 9
   },
   "projects": [
@@ -88,7 +88,7 @@
         "vehicle-dynamics",
         "fastapi"
       ],
-      "lastPush": "2026-08-26T01:02:27Z"
+      "lastPush": "2026-08-30T02:06:02Z"
     },
     {
       "name": "OpenParts",
