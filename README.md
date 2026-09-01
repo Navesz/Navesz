@@ -18,13 +18,13 @@ dependency-free script reads the GitHub GraphQL API and draws every pixel you se
 <!-- gen:snapshot -->
 > **Live snapshot** · 975 contributions in the last 365 days · 358 commits · 157 pull requests · 10 repositories touched in the last 90 days · current streak 3 days.
 >
-> Rendered 2026-09-01 05:02 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
+> Rendered 2026-09-01 20:59 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
 <!-- /gen:snapshot -->
 
 ## Selected work
 
 <!-- gen:work -->
-**[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated 2d ago  
+**[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated today  
 Racing-line planner and lap-time simulator. Draw a track, get the optimal line, a speed profile, braking points and an estimated lap time.
 
 **[OpenParts](https://github.com/Navesz/openparts)** — `Svelte` · updated 23d ago  
