@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" width="1000" height="180"
   role="img" aria-label="Language distribution across public repositories, measured in bytes of code">
-  <title>Language spectrum — TypeScript leads with 61.4%</title>
+  <title>Language spectrum — TypeScript leads with 58.5%</title>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0a0f1c"/>
@@ -36,27 +36,24 @@
   <rect x="56" y="56" width="888" height="28" rx="14"
     fill="#0e1526" stroke="#233047" stroke-width="1"/>
   <g clip-path="url(#rounded)">
-    <g class="wipe"><rect x="56" y="56" width="542.89" height="28"
-          fill="#5690d0"/><rect x="600.89" y="56" width="189.3" height="28"
-          fill="#f1e05a"/><rect x="792.19" y="56" width="61.69" height="28"
-          fill="#9976ba"/><rect x="855.88" y="56" width="54.84" height="28"
-          fill="#598bb5"/><rect x="912.72" y="56" width="13.63" height="28"
-          fill="#8c8cc6"/><rect x="928.35" y="56" width="7.34" height="28"
-          fill="#ff3e00"/><rect x="937.69" y="56" width="4.32" height="28"
+    <g class="wipe"><rect x="56" y="56" width="517.55" height="28"
+          fill="#5690d0"/><rect x="575.55" y="56" width="224.27" height="28"
+          fill="#f1e05a"/><rect x="801.82" y="56" width="57.41" height="28"
+          fill="#9976ba"/><rect x="861.23" y="56" width="51.02" height="28"
+          fill="#598bb5"/><rect x="914.25" y="56" width="12.58" height="28"
+          fill="#8c8cc6"/><rect x="928.83" y="56" width="6.71" height="28"
+          fill="#ff3e00"/><rect x="937.54" y="56" width="4.46" height="28"
           fill="#5ee7ff"/></g>
-    <g class="fade"><text x="327.4" y="73.6"
+    <g class="fade"><text x="314.8" y="73.6"
         text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700"
         fill="#ffffff"
-        >61.4%</text><text x="695.5" y="73.6"
+        >58.5%</text><text x="687.7" y="73.6"
         text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700"
         fill="#08101f"
-        >21.5%</text><text x="823" y="73.6"
+        >25.5%</text><text x="830.5" y="73.6"
         text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700"
         fill="#ffffff"
-        >7.2%</text><text x="883.3" y="73.6"
-        text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700"
-        fill="#ffffff"
-        >6.4%</text></g>
+        >6.7%</text></g>
   </g>
 
   <g>
@@ -64,37 +61,37 @@
         <text x="71" y="118" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5"
           fill="#e8eefb">TypeScript</text>
         <text x="148" y="118"
-          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#5a6880">61.4%</text>
+          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#5a6880">58.5%</text>
       </g><g>
         <circle cx="212.5" cy="114" r="4" fill="#f1e05a"/>
         <text x="223.5" y="118" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5"
           fill="#e8eefb">JavaScript</text>
         <text x="300.5" y="118"
-          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#5a6880">21.5%</text>
+          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#5a6880">25.5%</text>
       </g><g>
         <circle cx="365" cy="114" r="4" fill="#9976ba"/>
         <text x="376" y="118" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5"
           fill="#e8eefb">CSS</text>
         <text x="404.7" y="118"
-          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#5a6880">7.2%</text>
+          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#5a6880">6.7%</text>
       </g><g>
         <circle cx="462.3" cy="114" r="4" fill="#598bb5"/>
         <text x="473.3" y="118" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5"
           fill="#e8eefb">Python</text>
         <text x="522.7" y="118"
-          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#5a6880">6.4%</text>
+          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#5a6880">6.0%</text>
       </g><g>
         <circle cx="580.3" cy="114" r="4" fill="#8c8cc6"/>
         <text x="591.3" y="118" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5"
           fill="#e8eefb">Lua</text>
         <text x="620" y="118"
-          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#5a6880">1.8%</text>
+          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#5a6880">1.6%</text>
       </g><g>
         <circle cx="677.6" cy="114" r="4" fill="#ff3e00"/>
         <text x="688.6" y="118" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5"
           fill="#e8eefb">Svelte</text>
         <text x="738" y="118"
-          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#5a6880">1.1%</text>
+          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#5a6880">1.0%</text>
       </g><g>
         <circle cx="795.6" cy="114" r="4" fill="#5ee7ff"/>
         <text x="806.6" y="118" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5"
@@ -105,7 +102,7 @@
 
   <line x1="56" y1="142" x2="944" y2="142" stroke="#233047" stroke-width="1"/>
   <text x="56" y="163" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" letter-spacing="0.8"
-    fill="#5a6880">2.6M bytes across 12 public repositories</text>
+    fill="#5a6880">2.8M bytes across 12 public repositories</text>
   <text x="944" y="163" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
     letter-spacing="1.4" fill="#5a6880">PRIMARY · TYPESCRIPT</text>
 </svg>
