@@ -36,21 +36,21 @@
   <rect x="56" y="56" width="888" height="28" rx="14"
     fill="#eef2f9" stroke="#d3dcea" stroke-width="1"/>
   <g clip-path="url(#rounded)">
-    <g class="wipe"><rect x="56" y="56" width="484.75" height="28"
-          fill="#3178c6"/><rect x="542.75" y="56" width="265.62" height="28"
-          fill="#f1e05a"/><rect x="810.37" y="56" width="53.62" height="28"
-          fill="#663399"/><rect x="865.99" y="56" width="47.64" height="28"
-          fill="#3572A5"/><rect x="915.63" y="56" width="11.65" height="28"
-          fill="#000080"/><rect x="929.28" y="56" width="6.16" height="28"
-          fill="#ff3e00"/><rect x="937.44" y="56" width="4.56" height="28"
+    <g class="wipe"><rect x="56" y="56" width="484.6" height="28"
+          fill="#3178c6"/><rect x="542.6" y="56" width="265.56" height="28"
+          fill="#f1e05a"/><rect x="810.16" y="56" width="53.61" height="28"
+          fill="#663399"/><rect x="865.77" y="56" width="47.63" height="28"
+          fill="#3572A5"/><rect x="915.4" y="56" width="11.64" height="28"
+          fill="#000080"/><rect x="929.04" y="56" width="6.15" height="28"
+          fill="#ff3e00"/><rect x="937.19" y="56" width="4.82" height="28"
           fill="#5ee7ff"/></g>
-    <g class="fade"><text x="298.4" y="73.6"
+    <g class="fade"><text x="298.3" y="73.6"
         text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700"
         fill="#ffffff"
-        >54.8%</text><text x="675.6" y="73.6"
+        >54.8%</text><text x="675.4" y="73.6"
         text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700"
         fill="#08101f"
-        >30.1%</text><text x="837.2" y="73.6"
+        >30.1%</text><text x="837" y="73.6"
         text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700"
         fill="#ffffff"
         >6.3%</text></g>
@@ -97,7 +97,7 @@
         <text x="806.6" y="118" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5"
           fill="#0c1424">Other</text>
         <text x="849.1" y="118"
-          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#8493a9">0.7%</text>
+          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#8493a9">0.8%</text>
       </g>
 
   <line x1="56" y1="142" x2="944" y2="142" stroke="#d3dcea" stroke-width="1"/>
