@@ -151,8 +151,8 @@
         <circle cx="793.32" cy="91.98" r="22.61" fill="#5041d4" opacity="0.13"/>
         <circle cx="793.32" cy="91.98" r="6.28" fill="#5041d4"/>
       </g><g class="node" style="animation-delay:-1.62s">
-        <circle cx="836.36" cy="235.89" r="22.36" fill="#4b45d3" opacity="0.13"/>
-        <circle cx="836.36" cy="235.89" r="6.21" fill="#4b45d3"/>
+        <circle cx="836.36" cy="235.89" r="22.32" fill="#4b45d3" opacity="0.13"/>
+        <circle cx="836.36" cy="235.89" r="6.2" fill="#4b45d3"/>
       </g><g class="node" style="animation-delay:-0.11s">
         <circle cx="700" cy="153.81" r="22.28" fill="#4a46d3" opacity="0.13"/>
         <circle cx="700" cy="153.81" r="6.19" fill="#4a46d3"/>
@@ -163,8 +163,8 @@
         <circle cx="754.55" cy="256.15" r="19.08" fill="#0d7ac9" opacity="0.13"/>
         <circle cx="754.55" cy="256.15" r="5.3" fill="#0d7ac9"/>
       </g><g class="node" style="animation-delay:-2.79s">
-        <circle cx="733.23" cy="68.12" r="11.23" fill="#049089" opacity="0.13"/>
-        <circle cx="733.23" cy="68.12" r="3.12" fill="#049089"/>
+        <circle cx="733.23" cy="68.12" r="11.27" fill="#049089" opacity="0.13"/>
+        <circle cx="733.23" cy="68.12" r="3.13" fill="#049089"/>
       </g><g class="node" style="animation-delay:-3.3s">
         <circle cx="904.21" cy="196.52" r="10.66" fill="#049184" opacity="0.13"/>
         <circle cx="904.21" cy="196.52" r="2.96" fill="#049184"/>
@@ -184,7 +184,7 @@
     <text x="976" y="303.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5"
       fill="#5c6b83" letter-spacing="0.6">last signal
       <tspan fill="#0284c7">rebar</tspan>
-      <tspan fill="#8493a9">· today</tspan></text>
+      <tspan fill="#8493a9">· 1d ago</tspan></text>
     <rect x="-170" y="0" width="170" height="350" fill="url(#sweep)">
       <animate attributeName="x" values="-170;1000" dur="12s" repeatCount="indefinite"/>
     </rect>
@@ -241,7 +241,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#d3dcea" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#059669" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#8493a9" letter-spacing="0.8">13 repositories mapped · rendered 2026-09-04 04:26 UTC</text>
+        fill="#8493a9" letter-spacing="0.8">13 repositories mapped · rendered 2026-09-05 04:21 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#8493a9" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
