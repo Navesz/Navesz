@@ -37,12 +37,12 @@
     fill="#eef2f9" stroke="#d3dcea" stroke-width="1"/>
   <g clip-path="url(#rounded)">
     <g class="wipe"><rect x="56" y="56" width="461.85" height="28"
-          fill="#3178c6"/><rect x="519.85" y="56" width="298.31" height="28"
-          fill="#f1e05a"/><rect x="820.16" y="56" width="50" height="28"
-          fill="#663399"/><rect x="872.16" y="56" width="43.31" height="28"
-          fill="#3572A5"/><rect x="917.47" y="56" width="10.46" height="28"
-          fill="#000080"/><rect x="929.93" y="56" width="5.45" height="28"
-          fill="#ff3e00"/><rect x="937.38" y="56" width="4.63" height="28"
+          fill="#3178c6"/><rect x="519.85" y="56" width="298.3" height="28"
+          fill="#f1e05a"/><rect x="820.15" y="56" width="50" height="28"
+          fill="#663399"/><rect x="872.15" y="56" width="43.31" height="28"
+          fill="#3572A5"/><rect x="917.46" y="56" width="10.46" height="28"
+          fill="#000080"/><rect x="929.92" y="56" width="5.44" height="28"
+          fill="#ff3e00"/><rect x="937.36" y="56" width="4.63" height="28"
           fill="#5ee7ff"/></g>
     <g class="fade"><text x="286.9" y="73.6"
         text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700"

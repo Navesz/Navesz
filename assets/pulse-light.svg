@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 270" width="1000" height="270"
   role="img" aria-label="Weekly contribution activity over the last 52 weeks">
-  <title>Contribution rhythm — 1017 contributions in the last year</title>
+  <title>Contribution rhythm — 1162 contributions in the last year</title>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f5f7fc"/>
@@ -33,15 +33,15 @@
   <text x="56" y="36" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="2.6"
     fill="#5c6b83">CONTRIBUTION RHYTHM — 52 WEEKS</text>
   <text x="944" y="36" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10"
-    letter-spacing="1.4" fill="#8493a9">AVG 19.2/WEEK</text>
+    letter-spacing="1.4" fill="#8493a9">AVG 21.9/WEEK</text>
 
   <line x1="56" y1="129" x2="944" y2="129" stroke="#e3e9f3"
           stroke-width="1" stroke-dasharray="2 6"/>
         <text x="46" y="132.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace"
-          font-size="9" fill="#8493a9">119</text><line x1="56" y1="76" x2="944" y2="76" stroke="#e3e9f3"
+          font-size="9" fill="#8493a9">140</text><line x1="56" y1="76" x2="944" y2="76" stroke="#e3e9f3"
           stroke-width="1" stroke-dasharray="2 6"/>
         <text x="46" y="79.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace"
-          font-size="9" fill="#8493a9">377</text>
+          font-size="9" fill="#8493a9">443</text>
   <line x1="56" y1="182" x2="944" y2="182" stroke="#d3dcea" stroke-width="1"/>
   <rect x="56" y="181.1" width="13.42" height="0.9" rx="3.5"
         fill="url(#bars)" opacity="0.35" class="grow"
@@ -117,80 +117,80 @@
         fill="url(#bars)" opacity="0.35" class="grow"
         style="animation-delay:0.49s"/><rect x="661.52" y="181.1" width="13.42" height="0.9" rx="3.5"
         fill="url(#bars)" opacity="0.35" class="grow"
-        style="animation-delay:0.504s"/><rect x="678.34" y="181.1" width="13.42" height="0.9" rx="3.5"
-        fill="url(#bars)" opacity="0.35" class="grow"
-        style="animation-delay:0.518s"/><rect x="695.16" y="173.16" width="13.42" height="8.84" rx="3.5"
+        style="animation-delay:0.504s"/><rect x="678.34" y="173.98" width="13.42" height="8.02" rx="3.5"
         fill="url(#bars)" class="grow"
+        style="animation-delay:0.518s"/><rect x="695.16" y="181.1" width="13.42" height="0.9" rx="3.5"
+        fill="url(#bars)" opacity="0.35" class="grow"
         style="animation-delay:0.532s"/><rect x="711.98" y="181.1" width="13.42" height="0.9" rx="3.5"
         fill="url(#bars)" opacity="0.35" class="grow"
-        style="animation-delay:0.546s"/><rect x="728.8" y="181.1" width="13.42" height="0.9" rx="3.5"
+        style="animation-delay:0.546s"/><rect x="728.8" y="168.66" width="13.42" height="13.34" rx="3.5"
+        fill="url(#bars)" class="grow"
+        style="animation-delay:0.56s"/><rect x="745.62" y="168.1" width="13.42" height="13.9" rx="3.5"
+        fill="url(#bars)" class="grow"
+        style="animation-delay:0.574s"/><rect x="762.44" y="168.1" width="13.42" height="13.9" rx="3.5"
+        fill="url(#bars)" class="grow"
+        style="animation-delay:0.588s"/><rect x="779.26" y="164.99" width="13.42" height="17.01" rx="3.5"
+        fill="url(#bars)" class="grow"
+        style="animation-delay:0.602s"/><rect x="796.08" y="143.76" width="13.42" height="38.24" rx="3.5"
+        fill="url(#bars)" class="grow"
+        style="animation-delay:0.616s"/><rect x="812.9" y="158.88" width="13.42" height="23.12" rx="3.5"
+        fill="url(#bars)" class="grow"
+        style="animation-delay:0.63s"/><rect x="829.72" y="121.29" width="13.42" height="60.71" rx="3.5"
+        fill="url(#bars)" class="grow"
+        style="animation-delay:0.644s"/><rect x="846.54" y="131.67" width="13.42" height="50.33" rx="3.5"
+        fill="url(#bars)" class="grow"
+        style="animation-delay:0.658s"/><rect x="863.36" y="148.8" width="13.42" height="33.2" rx="3.5"
+        fill="url(#bars)" class="grow"
+        style="animation-delay:0.672s"/><rect x="880.18" y="149.11" width="13.42" height="32.89" rx="3.5"
+        fill="url(#bars)" class="grow"
+        style="animation-delay:0.686s"/><rect x="897" y="76" width="13.42" height="106" rx="3.5"
+        fill="url(#bars)" class="grow"
+        style="animation-delay:0.7s"/><rect x="913.82" y="138.08" width="13.42" height="43.92" rx="3.5"
+        fill="url(#bars)" class="grow"
+        style="animation-delay:0.714s"/><rect x="930.64" y="181.1" width="13.42" height="0.9" rx="3.5"
         fill="url(#bars)" opacity="0.35" class="grow"
-        style="animation-delay:0.56s"/><rect x="745.62" y="167.3" width="13.42" height="14.7" rx="3.5"
-        fill="url(#bars)" class="grow"
-        style="animation-delay:0.574s"/><rect x="762.44" y="166.68" width="13.42" height="15.32" rx="3.5"
-        fill="url(#bars)" class="grow"
-        style="animation-delay:0.588s"/><rect x="779.26" y="166.68" width="13.42" height="15.32" rx="3.5"
-        fill="url(#bars)" class="grow"
-        style="animation-delay:0.602s"/><rect x="796.08" y="165.49" width="13.42" height="16.51" rx="3.5"
-        fill="url(#bars)" class="grow"
-        style="animation-delay:0.616s"/><rect x="812.9" y="142.09" width="13.42" height="39.91" rx="3.5"
-        fill="url(#bars)" class="grow"
-        style="animation-delay:0.63s"/><rect x="829.72" y="156.54" width="13.42" height="25.46" rx="3.5"
-        fill="url(#bars)" class="grow"
-        style="animation-delay:0.644s"/><rect x="846.54" y="115.58" width="13.42" height="66.42" rx="3.5"
-        fill="url(#bars)" class="grow"
-        style="animation-delay:0.658s"/><rect x="863.36" y="132.49" width="13.42" height="49.51" rx="3.5"
-        fill="url(#bars)" class="grow"
-        style="animation-delay:0.672s"/><rect x="880.18" y="150.84" width="13.42" height="31.16" rx="3.5"
-        fill="url(#bars)" class="grow"
-        style="animation-delay:0.686s"/><rect x="897" y="145.77" width="13.42" height="36.23" rx="3.5"
-        fill="url(#bars)" class="grow"
-        style="animation-delay:0.7s"/><rect x="913.82" y="76" width="13.42" height="106" rx="3.5"
-        fill="url(#bars)" class="grow"
-        style="animation-delay:0.714s"/><rect x="930.64" y="142.42" width="13.42" height="39.58" rx="3.5"
-        fill="url(#bars)" class="grow"
         style="animation-delay:0.728s"/>
-  <path d="M 62.71 182 C 65.79 182 73.36 182 79.53 182 C 85.7 182 90.18 182 96.35 182 C 102.52 182 107 182 113.17 182 C 119.34 182 123.82 182 129.99 182 C 136.16 182 140.64 182 146.81 182 C 152.98 182 157.46 182 163.63 182 C 169.8 182 174.28 182 180.45 182 C 186.62 182 191.1 182 197.27 182 C 203.44 182 207.92 182 214.09 182 C 220.26 182 224.74 182 230.91 182 C 237.08 182 241.56 182 247.73 182 C 253.9 182 258.38 182 264.55 182 C 270.72 182 275.2 182 281.37 182 C 287.54 182 292.02 182 298.19 182 C 304.36 182 308.84 182 315.01 182 C 321.18 182 325.66 182 331.83 182 C 338 182 342.48 182 348.65 182 C 354.82 182 359.3 182 365.47 182 C 371.64 182 376.12 182 382.29 182 C 388.46 182 392.94 182 399.11 182 C 405.28 182 409.76 182 415.93 182 C 422.1 182 426.58 182 432.75 182 C 438.92 182 443.4 182 449.57 182 C 455.74 182 460.22 182 466.39 182 C 472.56 182 477.04 182 483.21 182 C 489.38 182 493.86 182 500.03 182 C 506.2 182 510.68 182 516.85 182 C 523.02 182 527.5 182 533.67 182 C 539.84 182 544.32 182 550.49 182 C 556.66 182 561.14 182 567.31 182 C 573.48 182 577.96 182 584.13 182 C 590.3 182 594.78 182 600.95 182 C 607.12 182 611.6 182 617.77 182 C 623.94 182 628.42 182 634.59 182 C 640.76 182 645.24 182 651.41 182 C 657.58 182 662.06 182 668.23 182 C 674.4 182 678.88 183.62 685.05 182 C 691.22 180.38 695.7 173.16 701.87 173.16 C 708.04 173.16 712.52 180.38 718.69 182 C 724.86 183.62 729.34 184.69 735.51 182 C 741.68 179.31 746.16 170.11 752.33 167.3 C 758.5 164.49 762.98 166.79 769.15 166.68 C 775.32 166.57 779.8 166.9 785.97 166.68 C 792.14 166.46 796.62 170 802.79 165.49 C 808.96 160.98 813.44 143.73 819.61 142.09 C 825.78 140.45 830.26 161.4 836.43 156.54 C 842.6 151.68 847.08 119.99 853.25 115.58 C 859.42 111.17 863.9 126.03 870.07 132.49 C 876.24 138.95 880.72 148.41 886.89 150.84 C 893.06 153.27 897.54 159.49 903.71 145.77 C 909.88 132.05 914.36 76.61 920.53 76 C 926.7 75.39 934.27 130.24 937.35 142.42" fill="none" stroke="#0c1424" stroke-width="1.4"
+  <path d="M 62.71 182 C 65.79 182 73.36 182 79.53 182 C 85.7 182 90.18 182 96.35 182 C 102.52 182 107 182 113.17 182 C 119.34 182 123.82 182 129.99 182 C 136.16 182 140.64 182 146.81 182 C 152.98 182 157.46 182 163.63 182 C 169.8 182 174.28 182 180.45 182 C 186.62 182 191.1 182 197.27 182 C 203.44 182 207.92 182 214.09 182 C 220.26 182 224.74 182 230.91 182 C 237.08 182 241.56 182 247.73 182 C 253.9 182 258.38 182 264.55 182 C 270.72 182 275.2 182 281.37 182 C 287.54 182 292.02 182 298.19 182 C 304.36 182 308.84 182 315.01 182 C 321.18 182 325.66 182 331.83 182 C 338 182 342.48 182 348.65 182 C 354.82 182 359.3 182 365.47 182 C 371.64 182 376.12 182 382.29 182 C 388.46 182 392.94 182 399.11 182 C 405.28 182 409.76 182 415.93 182 C 422.1 182 426.58 182 432.75 182 C 438.92 182 443.4 182 449.57 182 C 455.74 182 460.22 182 466.39 182 C 472.56 182 477.04 182 483.21 182 C 489.38 182 493.86 182 500.03 182 C 506.2 182 510.68 182 516.85 182 C 523.02 182 527.5 182 533.67 182 C 539.84 182 544.32 182 550.49 182 C 556.66 182 561.14 182 567.31 182 C 573.48 182 577.96 182 584.13 182 C 590.3 182 594.78 182 600.95 182 C 607.12 182 611.6 182 617.77 182 C 623.94 182 628.42 182 634.59 182 C 640.76 182 645.24 182 651.41 182 C 657.58 182 662.06 183.47 668.23 182 C 674.4 180.53 678.88 173.98 685.05 173.98 C 691.22 173.98 695.7 180.53 701.87 182 C 708.04 183.47 712.52 184.45 718.69 182 C 724.86 179.55 729.34 171.21 735.51 168.66 C 741.68 166.11 746.16 168.2 752.33 168.1 C 758.5 168 762.98 168.67 769.15 168.1 C 775.32 167.53 779.8 169.45 785.97 164.99 C 792.14 160.53 796.62 144.88 802.79 143.76 C 808.96 142.64 813.44 163 819.61 158.88 C 825.78 154.76 830.26 126.28 836.43 121.29 C 842.6 116.3 847.08 126.63 853.25 131.67 C 859.42 136.71 863.9 145.6 870.07 148.8 C 876.24 152 880.72 162.46 886.89 149.11 C 893.06 135.76 897.54 78.02 903.71 76 C 909.88 73.98 914.36 118.65 920.53 138.08 C 926.7 157.51 934.27 173.95 937.35 182" fill="none" stroke="#0c1424" stroke-width="1.4"
     stroke-linecap="round" opacity="0.5" class="line"/>
 
   <g>
-    <circle cx="920.5" cy="76" r="3" fill="#6d28d9"/>
-    <circle cx="920.5" cy="76" r="7" fill="none" stroke="#6d28d9"
+    <circle cx="903.7" cy="76" r="3" fill="#6d28d9"/>
+    <circle cx="903.7" cy="76" r="7" fill="none" stroke="#6d28d9"
       stroke-width="0.9" class="ping"/>
-    <text x="912.5" y="66" text-anchor="end"
+    <text x="895.7" y="66" text-anchor="end"
       font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#5c6b83">peak
-      <tspan fill="#6d28d9" font-weight="700">377</tspan></text>
+      <tspan fill="#6d28d9" font-weight="700">443</tspan></text>
   </g>
 
   <text x="56" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
-          letter-spacing="0.8" fill="#8493a9">Aug</text><text x="72.8" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
-          letter-spacing="0.8" fill="#8493a9">Sep</text><text x="140.1" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
-          letter-spacing="0.8" fill="#8493a9">Oct</text><text x="207.4" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
-          letter-spacing="0.8" fill="#8493a9">Nov</text><text x="291.5" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
-          letter-spacing="0.8" fill="#8493a9">Dec</text><text x="358.8" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
-          letter-spacing="0.8" fill="#8493a9">Jan</text><text x="426" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
-          letter-spacing="0.8" fill="#8493a9">Feb</text><text x="493.3" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
-          letter-spacing="0.8" fill="#8493a9">Mar</text><text x="577.4" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
-          letter-spacing="0.8" fill="#8493a9">Apr</text><text x="644.7" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
-          letter-spacing="0.8" fill="#8493a9">May</text><text x="728.8" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
-          letter-spacing="0.8" fill="#8493a9">Jun</text><text x="796.1" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
-          letter-spacing="0.8" fill="#8493a9">Jul</text><text x="863.4" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
-          letter-spacing="0.8" fill="#8493a9">Aug</text>
+          letter-spacing="0.8" fill="#8493a9">Sep</text><text x="123.3" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
+          letter-spacing="0.8" fill="#8493a9">Oct</text><text x="190.6" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
+          letter-spacing="0.8" fill="#8493a9">Nov</text><text x="274.7" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
+          letter-spacing="0.8" fill="#8493a9">Dec</text><text x="341.9" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
+          letter-spacing="0.8" fill="#8493a9">Jan</text><text x="409.2" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
+          letter-spacing="0.8" fill="#8493a9">Feb</text><text x="476.5" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
+          letter-spacing="0.8" fill="#8493a9">Mar</text><text x="560.6" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
+          letter-spacing="0.8" fill="#8493a9">Apr</text><text x="627.9" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
+          letter-spacing="0.8" fill="#8493a9">May</text><text x="712" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
+          letter-spacing="0.8" fill="#8493a9">Jun</text><text x="779.3" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
+          letter-spacing="0.8" fill="#8493a9">Jul</text><text x="846.5" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
+          letter-spacing="0.8" fill="#8493a9">Aug</text><text x="930.6" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
+          letter-spacing="0.8" fill="#8493a9">Sep</text>
 
   <line x1="56" y1="214" x2="944" y2="214" stroke="#d3dcea" stroke-width="1"/>
   
     <text x="56" y="240" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700"
-      fill="#0284c7">1017</text>
+      fill="#0284c7">1162</text>
     <text x="56" y="256" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" letter-spacing="1.6"
       fill="#8493a9">TOTAL / 365D</text>
   
     <text x="240" y="240" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700"
-      fill="#0c1424">368</text>
+      fill="#0c1424">512</text>
     <text x="240" y="256" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" letter-spacing="1.6"
       fill="#8493a9">COMMITS</text>
   
     <text x="424" y="240" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700"
-      fill="#0c1424">162</text>
+      fill="#0c1424">163</text>
     <text x="424" y="256" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" letter-spacing="1.6"
       fill="#8493a9">PULL REQUESTS</text>
   
