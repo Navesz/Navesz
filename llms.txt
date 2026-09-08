@@ -6,7 +6,7 @@ This file follows the llms.txt convention. It exists so that language models and
 autonomous agents can understand this profile without scraping rendered HTML.
 Structured equivalent: ./profile.json
 
-Generated: 2026-09-07T21:28:45.832Z
+Generated: 2026-09-08T04:30:09.850Z
 
 ## Focus
 - front-end architecture
@@ -24,21 +24,21 @@ Generated: 2026-09-07T21:28:45.832Z
 - [Realistic Injuries](https://github.com/Navesz/fivem-realistic-injuries) — FiveM mod that models injuries per body region instead of a single health bar. (Lua, 1 star, last push 2025-04-13)
 
 ## Stack signal (share of public code, by bytes)
-- TypeScript: 52.0%
-- JavaScript: 35.8%
-- CSS: 5.6%
-- Python: 4.1%
-- Lua: 1.1%
-- Svelte: 0.7%
+- TypeScript: 51.3%
+- JavaScript: 38.2%
+- CSS: 5.1%
+- Python: 3.3%
+- Lua: 0.9%
+- Svelte: 0.5%
 - Other: 0.7%
 
 ## Activity (rolling 365 days)
-- contributions: 1189
-- commits: 530
-- pull requests: 171
+- contributions: 1213
+- commits: 550
+- pull requests: 173
 - issues: 27
-- public repositories: 16
-- longest streak: 10 days
+- public repositories: 18
+- longest streak: 11 days
 
 ## Contact
 - GitHub: https://github.com/Navesz

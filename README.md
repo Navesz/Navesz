@@ -16,9 +16,9 @@ Nothing on this page is a widget. No badge services, no vendor cards, no tracker
 dependency-free script reads the GitHub GraphQL API and draws every pixel you see here.
 
 <!-- gen:snapshot -->
-> **Live snapshot** · 1189 contributions in the last 365 days · 530 commits · 171 pull requests · 13 repositories touched in the last 90 days · current streak 10 days.
+> **Live snapshot** · 1213 contributions in the last 365 days · 550 commits · 173 pull requests · 15 repositories touched in the last 90 days · current streak 11 days.
 >
-> Rendered 2026-09-07 21:28 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
+> Rendered 2026-09-08 04:30 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
 <!-- /gen:snapshot -->
 
 ## Selected work
@@ -30,10 +30,10 @@ Racing-line planner and lap-time simulator. Draw a track, get the optimal line, 
 **[OpenParts](https://github.com/Navesz/openparts)** — `Svelte` · updated 2d ago  
 Local-first parts interchange lab. Cross-reference automotive part numbers entirely in the browser, with no backend to depend on.
 
-**[Constellation](https://github.com/Navesz/constellation)** — `TypeScript` · updated 12d ago  
+**[Constellation](https://github.com/Navesz/constellation)** — `TypeScript` · updated 13d ago  
 An observatory for public GitHub signals — profiles, achievements and activity, measured honestly instead of gamified.
 
-**[Galegos](https://github.com/Navesz/Galegos)** — `TypeScript` · updated 12d ago  
+**[Galegos](https://github.com/Navesz/Galegos)** — `TypeScript` · updated 13d ago  
 Digital menu that hands the finished order off to WhatsApp. Built for a real kitchen, so it had to survive real customers.
 
 **[Speech → Text Translator](https://github.com/Navesz/tradutor-voz-texto)** — `TypeScript` · updated 1y ago  
