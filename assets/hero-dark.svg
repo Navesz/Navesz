@@ -82,13 +82,13 @@
         style="animation-delay:0s"/><line x1="808.47" y1="162.91" x2="769.03" y2="183.18" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.218" class="flow"
         style="animation-delay:-0.35s"/><line x1="769.03" y1="183.18" x2="785.84" y2="229.48" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.216" class="flow"
+        stroke-width="0.7" opacity="0.215" class="flow"
         style="animation-delay:-0.7s"/><line x1="784.71" y1="126.14" x2="742.88" y2="104.75" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.212" class="flow"
         style="animation-delay:-1.05s"/><line x1="831.4" y1="201.48" x2="808.47" y2="162.91" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.217" class="flow"
         style="animation-delay:-1.4s"/><line x1="831.4" y1="201.48" x2="819.75" y2="246.15" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.201" class="flow"
+        stroke-width="0.7" opacity="0.2" class="flow"
         style="animation-delay:-1.75s"/><line x1="722.2" y1="155.07" x2="699.63" y2="122.92" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.2" class="flow"
         style="animation-delay:-2.1s"/><line x1="722.2" y1="155.07" x2="703.8" y2="198.65" stroke="#5ee7ff"
@@ -98,7 +98,7 @@
         style="animation-delay:-2.8s"/><line x1="848.99" y1="128.23" x2="819.71" y2="86.48" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.204" class="flow"
         style="animation-delay:-3.15s"/><line x1="785.84" y1="229.48" x2="819.75" y2="246.15" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.201" class="flow"
+        stroke-width="0.7" opacity="0.2" class="flow"
         style="animation-delay:-3.5s"/><line x1="742.88" y1="104.75" x2="699.63" y2="122.92" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.2" class="flow"
         style="animation-delay:-3.85s"/><line x1="879.36" y1="184.27" x2="888.18" y2="142.85" stroke="#5ee7ff"
@@ -170,8 +170,8 @@
         <circle cx="819.75" cy="246.15" r="22.1" fill="#8dacfc" opacity="0.13"/>
         <circle cx="819.75" cy="246.15" r="6.14" fill="#8dacfc"/>
       </g><g class="node" style="animation-delay:-3.46s">
-        <circle cx="699.63" cy="122.92" r="22.07" fill="#8dacfc" opacity="0.13"/>
-        <circle cx="699.63" cy="122.92" r="6.13" fill="#8dacfc"/>
+        <circle cx="699.63" cy="122.92" r="22.07" fill="#8cadfc" opacity="0.13"/>
+        <circle cx="699.63" cy="122.92" r="6.13" fill="#8cadfc"/>
       </g><g class="node" style="animation-delay:-2.12s">
         <circle cx="888.18" cy="142.85" r="21.78" fill="#89b1fc" opacity="0.13"/>
         <circle cx="888.18" cy="142.85" r="6.05" fill="#89b1fc"/>
@@ -182,8 +182,8 @@
         <circle cx="771.27" cy="56.79" r="11.27" fill="#48e0ba" opacity="0.13"/>
         <circle cx="771.27" cy="56.79" r="3.13" fill="#48e0ba"/>
       </g><g class="node" style="animation-delay:-1.36s">
-        <circle cx="886.46" cy="227.92" r="10.66" fill="#46dfb5" opacity="0.13"/>
-        <circle cx="886.46" cy="227.92" r="2.96" fill="#46dfb5"/>
+        <circle cx="886.46" cy="227.92" r="10.69" fill="#46dfb5" opacity="0.13"/>
+        <circle cx="886.46" cy="227.92" r="2.97" fill="#46dfb5"/>
       </g>
     
     <g opacity="0.85">
@@ -200,7 +200,7 @@
     <text x="976" y="303.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5"
       fill="#8b9ab5" letter-spacing="0.6">last signal
       <tspan fill="#5ee7ff">bookkeep</tspan>
-      <tspan fill="#5a6880">· 2d ago</tspan></text>
+      <tspan fill="#5a6880">· 3d ago</tspan></text>
     <rect x="-170" y="0" width="170" height="350" fill="url(#sweep)">
       <animate attributeName="x" values="-170;1000" dur="12s" repeatCount="indefinite"/>
     </rect>
@@ -257,7 +257,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#233047" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#3ddc97" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-09-10 11:14 UTC</text>
+        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-09-11 04:34 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#5a6880" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
