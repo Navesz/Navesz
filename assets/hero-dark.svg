@@ -143,8 +143,8 @@
               <animate attributeName="opacity" values="0.6;0" dur="3.4s"
                 begin="2.2s" repeatCount="indefinite"/>
             </circle><g class="node" style="animation-delay:-0.07s">
-        <circle cx="831.4" cy="201.48" r="23.8" fill="#a390fa" opacity="0.13"/>
-        <circle cx="831.4" cy="201.48" r="6.61" fill="#a390fa"/>
+        <circle cx="831.4" cy="201.48" r="23.8" fill="#a291fa" opacity="0.13"/>
+        <circle cx="831.4" cy="201.48" r="6.61" fill="#a291fa"/>
       </g><g class="node" style="animation-delay:-0.23s">
         <circle cx="722.2" cy="155.07" r="23.76" fill="#a291fa" opacity="0.13"/>
         <circle cx="722.2" cy="155.07" r="6.6" fill="#a291fa"/>
@@ -155,8 +155,8 @@
         <circle cx="785.84" cy="229.48" r="23.65" fill="#a193fa" opacity="0.13"/>
         <circle cx="785.84" cy="229.48" r="6.57" fill="#a193fa"/>
       </g><g class="node" style="animation-delay:-1.91s">
-        <circle cx="742.88" cy="104.75" r="23.33" fill="#9d98fb" opacity="0.13"/>
-        <circle cx="742.88" cy="104.75" r="6.48" fill="#9d98fb"/>
+        <circle cx="742.88" cy="104.75" r="23.33" fill="#9c98fb" opacity="0.13"/>
+        <circle cx="742.88" cy="104.75" r="6.48" fill="#9c98fb"/>
       </g><g class="node" style="animation-delay:-3.48s">
         <circle cx="879.36" cy="184.27" r="23.08" fill="#999cfb" opacity="0.13"/>
         <circle cx="879.36" cy="184.27" r="6.41" fill="#999cfb"/>
@@ -176,11 +176,11 @@
         <circle cx="888.18" cy="142.85" r="21.78" fill="#89b1fc" opacity="0.13"/>
         <circle cx="888.18" cy="142.85" r="6.05" fill="#89b1fc"/>
       </g><g class="node" style="animation-delay:-0.2s">
-        <circle cx="728.07" cy="253.61" r="18.68" fill="#60e4ff" opacity="0.13"/>
-        <circle cx="728.07" cy="253.61" r="5.19" fill="#60e4ff"/>
+        <circle cx="728.07" cy="253.61" r="18.65" fill="#60e4ff" opacity="0.13"/>
+        <circle cx="728.07" cy="253.61" r="5.18" fill="#60e4ff"/>
       </g><g class="node" style="animation-delay:-1.17s">
-        <circle cx="771.27" cy="56.79" r="11.27" fill="#48e0ba" opacity="0.13"/>
-        <circle cx="771.27" cy="56.79" r="3.13" fill="#48e0ba"/>
+        <circle cx="771.27" cy="56.79" r="11.3" fill="#48e0bb" opacity="0.13"/>
+        <circle cx="771.27" cy="56.79" r="3.14" fill="#48e0bb"/>
       </g><g class="node" style="animation-delay:-1.36s">
         <circle cx="886.46" cy="227.92" r="10.69" fill="#46dfb5" opacity="0.13"/>
         <circle cx="886.46" cy="227.92" r="2.97" fill="#46dfb5"/>
@@ -257,7 +257,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#233047" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#3ddc97" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-09-11 04:34 UTC</text>
+        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-09-12 04:29 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#5a6880" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
