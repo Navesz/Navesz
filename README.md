@@ -16,24 +16,24 @@ Nothing on this page is a widget. No badge services, no vendor cards, no tracker
 dependency-free script reads the GitHub GraphQL API and draws every pixel you see here.
 
 <!-- gen:snapshot -->
-> **Live snapshot** · 1330 contributions in the last 365 days · 561 commits · 192 pull requests · 15 repositories touched in the last 90 days · current streak 3 days.
+> **Live snapshot** · 1359 contributions in the last 365 days · 579 commits · 202 pull requests · 15 repositories touched in the last 90 days · current streak 5 days.
 >
-> Rendered 2026-09-16 04:45 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
+> Rendered 2026-09-17 04:48 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
 <!-- /gen:snapshot -->
 
 ## Selected work
 
 <!-- gen:work -->
-**[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated 1d ago  
+**[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated today  
 Racing-line planner and lap-time simulator. Draw a track, get the optimal line, a speed profile, braking points and an estimated lap time.
 
-**[OpenParts](https://github.com/Navesz/openparts)** — `Svelte` · updated 10d ago  
+**[OpenParts](https://github.com/Navesz/openparts)** — `Svelte` · updated 11d ago  
 Local-first parts interchange lab. Cross-reference automotive part numbers entirely in the browser, with no backend to depend on.
 
-**[Constellation](https://github.com/Navesz/constellation)** — `TypeScript` · updated 21d ago  
+**[Constellation](https://github.com/Navesz/constellation)** — `TypeScript` · updated 22d ago  
 An observatory for public GitHub signals — profiles, achievements and activity, measured honestly instead of gamified.
 
-**[Galegos](https://github.com/Navesz/Galegos)** — `TypeScript` · updated 21d ago  
+**[Galegos](https://github.com/Navesz/Galegos)** — `TypeScript` · updated 22d ago  
 Digital menu that hands the finished order off to WhatsApp. Built for a real kitchen, so it had to survive real customers.
 
 **[Speech → Text Translator](https://github.com/Navesz/tradutor-voz-texto)** — `TypeScript` · updated 1y ago  
