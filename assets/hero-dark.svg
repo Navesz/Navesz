@@ -149,8 +149,8 @@
         <circle cx="722.2" cy="155.07" r="22.97" fill="#989efb" opacity="0.13"/>
         <circle cx="722.2" cy="155.07" r="6.38" fill="#989efb"/>
       </g><g class="node" style="animation-delay:-1.08s">
-        <circle cx="848.99" cy="128.23" r="22.93" fill="#989efb" opacity="0.13"/>
-        <circle cx="848.99" cy="128.23" r="6.37" fill="#989efb"/>
+        <circle cx="848.99" cy="128.23" r="22.93" fill="#979ffb" opacity="0.13"/>
+        <circle cx="848.99" cy="128.23" r="6.37" fill="#979ffb"/>
       </g><g class="node" style="animation-delay:-0.89s">
         <circle cx="785.84" cy="229.48" r="22.79" fill="#96a1fb" opacity="0.13"/>
         <circle cx="785.84" cy="229.48" r="6.33" fill="#96a1fb"/>
@@ -200,7 +200,7 @@
     <text x="976" y="303.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5"
       fill="#8b9ab5" letter-spacing="0.6">last signal
       <tspan fill="#5ee7ff">rebar</tspan>
-      <tspan fill="#5a6880">· today</tspan></text>
+      <tspan fill="#5a6880">· 1d ago</tspan></text>
     <rect x="-170" y="0" width="170" height="350" fill="url(#sweep)">
       <animate attributeName="x" values="-170;1000" dur="12s" repeatCount="indefinite"/>
     </rect>
@@ -257,7 +257,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#233047" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#3ddc97" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-09-18 16:21 UTC</text>
+        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-09-19 04:33 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#5a6880" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
