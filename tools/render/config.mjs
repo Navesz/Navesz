@@ -60,17 +60,6 @@ export const featured = [
       "Digital menu that hands the finished order off to WhatsApp. Built for a real " +
       "kitchen, so it had to survive real customers.",
   },
-  {
-    repo: "tradutor-voz-texto",
-    title: "Speech → Text Translator",
-    blurb: "Real-time speech-to-text translation running straight in the browser.",
-  },
-  {
-    repo: "fivem-realistic-injuries",
-    title: "Realistic Injuries",
-    blurb:
-      "FiveM mod that models injuries per body region instead of a single health bar.",
-  },
 ];
 
 export const fonts = {
