@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "kind": "github-profile-manifest",
   "version": 1,
-  "generatedAt": "2026-09-20T04:49:48.236Z",
+  "generatedAt": "2026-09-20T23:38:16.057Z",
   "generator": "tools/render (no third-party services)",
   "identity": {
     "handle": "Navesz",
@@ -23,27 +23,27 @@
     "spectrum": [
       {
         "name": "JavaScript",
-        "share": 0.5305,
-        "bytes": 3613921
+        "share": 0.5328,
+        "bytes": 3650474
       },
       {
         "name": "TypeScript",
-        "share": 0.3877,
-        "bytes": 2641148
+        "share": 0.3856,
+        "bytes": 2642010
       },
       {
         "name": "CSS",
-        "share": 0.0382,
+        "share": 0.0379,
         "bytes": 259934
       },
       {
         "name": "Python",
-        "share": 0.0281,
-        "bytes": 191182
+        "share": 0.028,
+        "bytes": 191685
       },
       {
         "name": "Lua",
-        "share": 0.0068,
+        "share": 0.0067,
         "bytes": 46053
       },
       {
@@ -54,28 +54,47 @@
       {
         "name": "Other",
         "share": 0.0049,
-        "bytes": 33052
+        "bytes": 33312
       }
     ]
   },
   "activity": {
-    "contributions": 1380,
-    "commits": 585,
-    "pullRequests": 211,
+    "contributions": 1384,
+    "commits": 588,
+    "pullRequests": 212,
     "issues": 29,
     "publicRepos": 18,
-    "languages": 12,
-    "currentStreak": 0,
+    "languages": 13,
+    "currentStreak": 1,
     "longestStreak": 14,
-    "avgPerWeek": 26,
+    "avgPerWeek": 26.1,
     "activeRepos": 15
   },
   "projects": [
     {
+      "name": "rebar",
+      "repo": "rebar",
+      "url": "https://github.com/Navesz/rebar",
+      "summary": "Repository checker and merge gate for projects written with AI agents. Audits any repository, scans versioned files for known prompt-injection signatures, and blocks the commit when a rule is ignored. Zero runtime dependencies.",
+      "language": "JavaScript",
+      "stars": 1,
+      "topics": [
+        "code-quality",
+        "continuous-integration",
+        "developer-tools",
+        "git-hooks",
+        "mcp",
+        "model-context-protocol",
+        "nodejs",
+        "pre-commit"
+      ],
+      "lastPush": "2026-09-20T22:34:24Z"
+    },
+    {
       "name": "OpenKartline",
       "repo": "openkartline",
       "url": "https://github.com/Navesz/openkartline",
-      "summary": "Racing-line planner and lap-time simulator. Draw a track, get the optimal line, a speed profile, braking points and an estimated lap time.",
+      "summary": "Racing-line planner and lap-time estimator that runs in the browser. Draw or import a kart track, pick a class, and get a baseline line, braking points and an estimated lap time — a planning estimate, not a validated one.",
       "language": "TypeScript",
       "stars": 0,
       "topics": [

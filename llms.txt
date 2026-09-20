@@ -6,7 +6,7 @@ This file follows the llms.txt convention. It exists so that language models and
 autonomous agents can understand this profile without scraping rendered HTML.
 Structured equivalent: ./profile.json
 
-Generated: 2026-09-20T04:49:48.236Z
+Generated: 2026-09-20T23:38:16.057Z
 
 ## Focus
 - front-end architecture
@@ -16,7 +16,8 @@ Generated: 2026-09-20T04:49:48.236Z
 - automation
 
 ## Selected projects
-- [OpenKartline](https://github.com/Navesz/openkartline) — Racing-line planner and lap-time simulator. Draw a track, get the optimal line, a speed profile, braking points and an estimated lap time. (TypeScript, 0 stars, last push 2026-09-17)
+- [rebar](https://github.com/Navesz/rebar) — Repository checker and merge gate for projects written with AI agents. Audits any repository, scans versioned files for known prompt-injection signatures, and blocks the commit when a rule is ignored. Zero runtime dependencies. (JavaScript, 1 star, last push 2026-09-20)
+- [OpenKartline](https://github.com/Navesz/openkartline) — Racing-line planner and lap-time estimator that runs in the browser. Draw or import a kart track, pick a class, and get a baseline line, braking points and an estimated lap time — a planning estimate, not a validated one. (TypeScript, 0 stars, last push 2026-09-17)
 - [OpenParts](https://github.com/Navesz/openparts) — Local-first parts interchange lab. Cross-reference automotive part numbers entirely in the browser, with no backend to depend on. (Svelte, 0 stars, last push 2026-09-05)
 - [Constellation](https://github.com/Navesz/constellation) — An observatory for public GitHub signals — profiles, achievements and activity, measured honestly instead of gamified. (TypeScript, 0 stars, last push 2026-08-25)
 - [Galegos](https://github.com/Navesz/Galegos) — Digital menu that hands the finished order off to WhatsApp. Built for a real kitchen, so it had to survive real customers. (TypeScript, 0 stars, last push 2026-08-25)
@@ -24,8 +25,8 @@ Generated: 2026-09-20T04:49:48.236Z
 - [Realistic Injuries](https://github.com/Navesz/fivem-realistic-injuries) — FiveM mod that models injuries per body region instead of a single health bar. (Lua, 1 star, last push 2025-04-13)
 
 ## Stack signal (share of public code, by bytes)
-- JavaScript: 53.0%
-- TypeScript: 38.8%
+- JavaScript: 53.3%
+- TypeScript: 38.6%
 - CSS: 3.8%
 - Python: 2.8%
 - Lua: 0.7%
@@ -33,9 +34,9 @@ Generated: 2026-09-20T04:49:48.236Z
 - Other: 0.5%
 
 ## Activity (rolling 365 days)
-- contributions: 1380
-- commits: 585
-- pull requests: 211
+- contributions: 1384
+- commits: 588
+- pull requests: 212
 - issues: 29
 - public repositories: 18
 - longest streak: 14 days
