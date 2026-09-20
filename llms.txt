@@ -1,4 +1,4 @@
-# NAVES — GitHub profile (Navesz)
+# NAVESZ — GitHub profile (Navesz)
 
 > Software developer focused on TypeScript, Next.js and Node. I build web products, internal tooling and open-source experiments — usually the kind that turn a messy manual process into something a browser can do in one click.
 
@@ -6,7 +6,7 @@ This file follows the llms.txt convention. It exists so that language models and
 autonomous agents can understand this profile without scraping rendered HTML.
 Structured equivalent: ./profile.json
 
-Generated: 2026-09-20T23:41:45.806Z
+Generated: 2026-09-20T23:47:14.071Z
 
 ## Focus
 - front-end architecture
@@ -32,8 +32,8 @@ Generated: 2026-09-20T23:41:45.806Z
 - Other: 0.3%
 
 ## Activity (rolling 365 days)
-- contributions: 1385
-- commits: 589
+- contributions: 1386
+- commits: 590
 - pull requests: 212
 - issues: 29
 - public repositories: 16

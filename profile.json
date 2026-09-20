@@ -2,11 +2,11 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "kind": "github-profile-manifest",
   "version": 1,
-  "generatedAt": "2026-09-20T23:41:45.806Z",
+  "generatedAt": "2026-09-20T23:47:14.071Z",
   "generator": "tools/render (no third-party services)",
   "identity": {
     "handle": "Navesz",
-    "alias": "NAVES",
+    "alias": "NAVESZ",
     "headline": "I build web products, developer tools and open-source experiments.",
     "summary": "Software developer focused on TypeScript, Next.js and Node. I build web products, internal tooling and open-source experiments — usually the kind that turn a messy manual process into something a browser can do in one click.",
     "interests": [
@@ -59,15 +59,15 @@
     ]
   },
   "activity": {
-    "contributions": 1385,
-    "commits": 589,
+    "contributions": 1386,
+    "commits": 590,
     "pullRequests": 212,
     "issues": 29,
     "publicRepos": 16,
     "languages": 12,
     "currentStreak": 1,
     "longestStreak": 14,
-    "avgPerWeek": 26.1,
+    "avgPerWeek": 26.2,
     "activeRepos": 15
   },
   "projects": [
