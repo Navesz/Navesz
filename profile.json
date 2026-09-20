@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "kind": "github-profile-manifest",
   "version": 1,
-  "generatedAt": "2026-09-20T23:38:16.057Z",
+  "generatedAt": "2026-09-20T23:41:45.806Z",
   "generator": "tools/render (no third-party services)",
   "identity": {
     "handle": "Navesz",
@@ -23,48 +23,48 @@
     "spectrum": [
       {
         "name": "JavaScript",
-        "share": 0.5328,
+        "share": 0.5379,
         "bytes": 3650474
       },
       {
         "name": "TypeScript",
-        "share": 0.3856,
-        "bytes": 2642010
+        "share": 0.3868,
+        "bytes": 2624781
       },
       {
         "name": "CSS",
-        "share": 0.0379,
-        "bytes": 259934
+        "share": 0.0381,
+        "bytes": 258617
       },
       {
         "name": "Python",
-        "share": 0.028,
+        "share": 0.0282,
         "bytes": 191685
       },
       {
-        "name": "Lua",
-        "share": 0.0067,
-        "bytes": 46053
-      },
-      {
         "name": "Svelte",
-        "share": 0.004,
+        "share": 0.0041,
         "bytes": 27525
       },
       {
+        "name": "Shell",
+        "share": 0.0022,
+        "bytes": 15184
+      },
+      {
         "name": "Other",
-        "share": 0.0049,
-        "bytes": 33312
+        "share": 0.0027,
+        "bytes": 18128
       }
     ]
   },
   "activity": {
-    "contributions": 1384,
-    "commits": 588,
+    "contributions": 1385,
+    "commits": 589,
     "pullRequests": 212,
     "issues": 29,
-    "publicRepos": 18,
-    "languages": 13,
+    "publicRepos": 16,
+    "languages": 12,
     "currentStreak": 1,
     "longestStreak": 14,
     "avgPerWeek": 26.1,
@@ -158,38 +158,6 @@
         "whatsapp"
       ],
       "lastPush": "2026-08-25T21:59:58Z"
-    },
-    {
-      "name": "Speech → Text Translator",
-      "repo": "tradutor-voz-texto",
-      "url": "https://github.com/Navesz/tradutor-voz-texto",
-      "summary": "Real-time speech-to-text translation running straight in the browser.",
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [
-        "realtime",
-        "speech-to-text",
-        "translation",
-        "typescript",
-        "web-speech-api"
-      ],
-      "lastPush": "2025-03-25T02:34:08Z"
-    },
-    {
-      "name": "Realistic Injuries",
-      "repo": "fivem-realistic-injuries",
-      "url": "https://github.com/Navesz/fivem-realistic-injuries",
-      "summary": "FiveM mod that models injuries per body region instead of a single health bar.",
-      "language": "Lua",
-      "stars": 1,
-      "topics": [
-        "fivem",
-        "game-mod",
-        "gta5",
-        "lua",
-        "roleplay"
-      ],
-      "lastPush": "2025-04-13T20:54:17Z"
     }
   ],
   "links": {
