@@ -178,7 +178,10 @@ export function renderHero({ theme, data }) {
       <tspan fill="${theme.accent}">${esc(latest.name)}</tspan>
       <tspan fill="${theme.faint}">· ${esc(latest.relative)}</tspan></text>`;
 
-  const wordmarkWidth = 300;
+  // Medido no Edge com a mesma pilha de fontes, 78px/800/letter-spacing 4:
+  // `NAVES` ocupa 284,3px e `NAVESZ` 338,3px. A régua mantém a mesma sobra de ~16px
+  // que tinha antes, senão ela fica mais curta que a palavra que sublinha.
+  const wordmarkWidth = 356;
 
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}"
   role="img" aria-label="${esc(data.login)} — generative profile banner rendered from public GitHub activity">

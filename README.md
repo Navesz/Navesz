@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
-  <img src="assets/hero-dark.svg" width="100%" alt="Naves — generative profile banner rendered from live GitHub activity" />
+  <img src="assets/hero-dark.svg" width="100%" alt="Navesz — generative profile banner rendered from live GitHub activity" />
 </picture>
 
 </div>

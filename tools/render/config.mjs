@@ -1,7 +1,7 @@
 export const login = "Navesz";
 
 export const identity = {
-  wordmark: "NAVES",
+  wordmark: "NAVESZ",
   headline: "I build web products, developer tools and open-source experiments.",
   subline: "TypeScript · Next.js · Node · Python · a bias for shipping",
   /** Rendered inside the machine-readable manifest, not on the canvas. */
