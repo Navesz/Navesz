@@ -94,7 +94,7 @@
         style="animation-delay:-2.1s"/><line x1="722.2" y1="155.07" x2="703.8" y2="198.65" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.192" class="flow"
         style="animation-delay:-2.45s"/><line x1="848.99" y1="128.23" x2="888.18" y2="142.85" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.185" class="flow"
+        stroke-width="0.7" opacity="0.184" class="flow"
         style="animation-delay:-2.8s"/><line x1="848.99" y1="128.23" x2="819.71" y2="86.48" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.19" class="flow"
         style="animation-delay:-3.15s"/><line x1="785.84" y1="229.48" x2="819.75" y2="246.15" stroke="#5ee7ff"
@@ -102,7 +102,7 @@
         style="animation-delay:-3.5s"/><line x1="742.88" y1="104.75" x2="699.63" y2="122.92" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.187" class="flow"
         style="animation-delay:-3.85s"/><line x1="879.36" y1="184.27" x2="888.18" y2="142.85" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.185" class="flow"
+        stroke-width="0.7" opacity="0.184" class="flow"
         style="animation-delay:-4.2s"/><line x1="879.36" y1="184.27" x2="886.46" y2="227.92" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.089" class="flow"
         style="animation-delay:-4.55s"/><line x1="703.8" y1="198.65" x2="728.07" y2="253.61" stroke="#5ee7ff"
@@ -149,8 +149,8 @@
         <circle cx="722.2" cy="155.07" r="22.93" fill="#989efb" opacity="0.13"/>
         <circle cx="722.2" cy="155.07" r="6.37" fill="#989efb"/>
       </g><g class="node" style="animation-delay:-1.08s">
-        <circle cx="848.99" cy="128.23" r="22.93" fill="#979ffb" opacity="0.13"/>
-        <circle cx="848.99" cy="128.23" r="6.37" fill="#979ffb"/>
+        <circle cx="848.99" cy="128.23" r="22.9" fill="#979ffb" opacity="0.13"/>
+        <circle cx="848.99" cy="128.23" r="6.36" fill="#979ffb"/>
       </g><g class="node" style="animation-delay:-0.89s">
         <circle cx="785.84" cy="229.48" r="22.79" fill="#96a1fb" opacity="0.13"/>
         <circle cx="785.84" cy="229.48" r="6.33" fill="#96a1fb"/>
@@ -167,14 +167,14 @@
         <circle cx="819.71" cy="86.48" r="21.06" fill="#7fbdfd" opacity="0.13"/>
         <circle cx="819.71" cy="86.48" r="5.85" fill="#7fbdfd"/>
       </g><g class="node" style="animation-delay:-3.74s">
-        <circle cx="819.75" cy="246.15" r="20.77" fill="#7cc2fd" opacity="0.13"/>
-        <circle cx="819.75" cy="246.15" r="5.77" fill="#7cc2fd"/>
+        <circle cx="819.75" cy="246.15" r="20.77" fill="#7bc2fd" opacity="0.13"/>
+        <circle cx="819.75" cy="246.15" r="5.77" fill="#7bc2fd"/>
       </g><g class="node" style="animation-delay:-3.46s">
         <circle cx="699.63" cy="122.92" r="20.66" fill="#7ac4fd" opacity="0.13"/>
         <circle cx="699.63" cy="122.92" r="5.74" fill="#7ac4fd"/>
       </g><g class="node" style="animation-delay:-2.12s">
-        <circle cx="888.18" cy="142.85" r="20.45" fill="#78c7fd" opacity="0.13"/>
-        <circle cx="888.18" cy="142.85" r="5.68" fill="#78c7fd"/>
+        <circle cx="888.18" cy="142.85" r="20.45" fill="#77c7fd" opacity="0.13"/>
+        <circle cx="888.18" cy="142.85" r="5.68" fill="#77c7fd"/>
       </g><g class="node" style="animation-delay:-0.2s">
         <circle cx="728.07" cy="253.61" r="17.6" fill="#5be6f7" opacity="0.13"/>
         <circle cx="728.07" cy="253.61" r="4.89" fill="#5be6f7"/>
@@ -257,7 +257,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#233047" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#3ddc97" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-09-19 20:35 UTC</text>
+        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-09-20 04:49 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#5a6880" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
