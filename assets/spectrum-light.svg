@@ -36,18 +36,18 @@
   <rect x="56" y="56" width="888" height="28" rx="14"
     fill="#eef2f9" stroke="#d3dcea" stroke-width="1"/>
   <g clip-path="url(#rounded)">
-    <g class="wipe"><rect x="56" y="56" width="475.66" height="28"
-          fill="#f1e05a"/><rect x="533.66" y="56" width="341.45" height="28"
-          fill="#3178c6"/><rect x="877.11" y="56" width="31.84" height="28"
-          fill="#663399"/><rect x="910.95" y="56" width="23.08" height="28"
-          fill="#3572A5"/><rect x="936.03" y="56" width="1.6" height="28"
-          fill="#ff3e00"/><rect x="939.63" y="56" width="1" height="28"
-          fill="#89e051"/><rect x="941.63" y="56" width="1" height="28"
+    <g class="wipe"><rect x="56" y="56" width="475.93" height="28"
+          fill="#f1e05a"/><rect x="533.93" y="56" width="341.23" height="28"
+          fill="#3178c6"/><rect x="877.16" y="56" width="31.82" height="28"
+          fill="#663399"/><rect x="910.98" y="56" width="23.07" height="28"
+          fill="#3572A5"/><rect x="936.05" y="56" width="1.6" height="28"
+          fill="#ff3e00"/><rect x="939.65" y="56" width="1" height="28"
+          fill="#89e051"/><rect x="941.65" y="56" width="1" height="28"
           fill="#5ee7ff"/></g>
-    <g class="fade"><text x="293.8" y="73.6"
+    <g class="fade"><text x="294" y="73.6"
         text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700"
         fill="#08101f"
-        >53.8%</text><text x="704.4" y="73.6"
+        >53.8%</text><text x="704.5" y="73.6"
         text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700"
         fill="#ffffff"
         >38.7%</text></g>
