@@ -18,13 +18,13 @@ dependency-free script reads the GitHub GraphQL API and draws every pixel you se
 <!-- gen:snapshot -->
 > **Live snapshot** · 1418 contributions in the last 365 days · 594 commits · 215 pull requests · 15 repositories touched in the last 90 days · current streak 2 days.
 >
-> Rendered 2026-09-21 21:56 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
+> Rendered 2026-09-22 04:49 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
 <!-- /gen:snapshot -->
 
 ## Selected work
 
 <!-- gen:work -->
-**[rebar](https://github.com/Navesz/rebar)** — `JavaScript` · 1 ★ · updated today  
+**[rebar](https://github.com/Navesz/rebar)** — `JavaScript` · 1 ★ · updated 1d ago  
 Repository checker and merge gate for projects written with AI agents. Audits any repository, scans versioned files for known prompt-injection signatures, and blocks the commit when a rule is ignored. Zero runtime dependencies.
 
 **[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated 4d ago  
@@ -33,10 +33,10 @@ Racing-line planner and lap-time estimator that runs in the browser. Draw or imp
 **[OpenParts](https://github.com/Navesz/openparts)** — `Svelte` · updated 16d ago  
 Local-first parts interchange lab. Cross-reference automotive part numbers entirely in the browser, with no backend to depend on.
 
-**[Constellation](https://github.com/Navesz/constellation)** — `TypeScript` · updated 26d ago  
+**[Constellation](https://github.com/Navesz/constellation)** — `TypeScript` · updated 27d ago  
 An observatory for public GitHub signals — profiles, achievements and activity, measured honestly instead of gamified.
 
-**[Galegos](https://github.com/Navesz/Galegos)** — `TypeScript` · updated 26d ago  
+**[Galegos](https://github.com/Navesz/Galegos)** — `TypeScript` · updated 27d ago  
 Digital menu that hands the finished order off to WhatsApp. Built for a real kitchen, so it had to survive real customers.
 <!-- /gen:work -->
 
