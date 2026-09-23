@@ -16,9 +16,9 @@ Nothing on this page is a widget. No badge services, no vendor cards, no tracker
 dependency-free script reads the GitHub GraphQL API and draws every pixel you see here.
 
 <!-- gen:snapshot -->
-> **Live snapshot** · 1432 contributions in the last 365 days · 597 commits · 218 pull requests · 15 repositories touched in the last 90 days · current streak 4 days.
+> **Live snapshot** · 1438 contributions in the last 365 days · 597 commits · 218 pull requests · 15 repositories touched in the last 90 days · current streak 4 days.
 >
-> Rendered 2026-09-23 16:53 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
+> Rendered 2026-09-23 21:27 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
 <!-- /gen:snapshot -->
 
 ## Selected work
@@ -27,10 +27,10 @@ dependency-free script reads the GitHub GraphQL API and draws every pixel you se
 **[rebar](https://github.com/Navesz/rebar)** — `JavaScript` · 2 ★ · updated today  
 Repository checker and merge gate for projects written with AI agents. Audits any repository, scans versioned files for known prompt-injection signatures, and blocks the commit when a rule is ignored. Zero runtime dependencies.
 
-**[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated 5d ago  
+**[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated 6d ago  
 Racing-line planner and lap-time estimator that runs in the browser. Draw or import a kart track, pick a class, and get a baseline line, braking points and an estimated lap time — a planning estimate, not a validated one.
 
-**[OpenParts](https://github.com/Navesz/openparts)** — `Svelte` · updated 17d ago  
+**[OpenParts](https://github.com/Navesz/openparts)** — `Svelte` · updated 18d ago  
 Local-first parts interchange lab. Cross-reference automotive part numbers entirely in the browser, with no backend to depend on.
 
 **[Constellation](https://github.com/Navesz/constellation)** — `TypeScript` · updated 28d ago  
