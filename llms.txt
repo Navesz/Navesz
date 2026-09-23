@@ -6,7 +6,7 @@ This file follows the llms.txt convention. It exists so that language models and
 autonomous agents can understand this profile without scraping rendered HTML.
 Structured equivalent: ./profile.json
 
-Generated: 2026-09-22T16:53:51.621Z
+Generated: 2026-09-23T04:41:02.829Z
 
 ## Focus
 - front-end architecture
@@ -16,7 +16,7 @@ Generated: 2026-09-22T16:53:51.621Z
 - automation
 
 ## Selected projects
-- [rebar](https://github.com/Navesz/rebar) — Repository checker and merge gate for projects written with AI agents. Audits any repository, scans versioned files for known prompt-injection signatures, and blocks the commit when a rule is ignored. Zero runtime dependencies. (JavaScript, 1 star, last push 2026-09-21)
+- [rebar](https://github.com/Navesz/rebar) — Repository checker and merge gate for projects written with AI agents. Audits any repository, scans versioned files for known prompt-injection signatures, and blocks the commit when a rule is ignored. Zero runtime dependencies. (JavaScript, 1 star, last push 2026-09-22)
 - [OpenKartline](https://github.com/Navesz/openkartline) — Racing-line planner and lap-time estimator that runs in the browser. Draw or import a kart track, pick a class, and get a baseline line, braking points and an estimated lap time — a planning estimate, not a validated one. (TypeScript, 0 stars, last push 2026-09-17)
 - [OpenParts](https://github.com/Navesz/openparts) — Local-first parts interchange lab. Cross-reference automotive part numbers entirely in the browser, with no backend to depend on. (Svelte, 0 stars, last push 2026-09-05)
 - [Constellation](https://github.com/Navesz/constellation) — An observatory for public GitHub signals — profiles, achievements and activity, measured honestly instead of gamified. (TypeScript, 0 stars, last push 2026-08-25)
@@ -32,9 +32,9 @@ Generated: 2026-09-22T16:53:51.621Z
 - Other: 0.3%
 
 ## Activity (rolling 365 days)
-- contributions: 1418
-- commits: 594
-- pull requests: 215
+- contributions: 1424
+- commits: 597
+- pull requests: 218
 - issues: 29
 - public repositories: 16
 - longest streak: 14 days
