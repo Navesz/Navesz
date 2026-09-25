@@ -18,13 +18,13 @@ dependency-free script reads the GitHub GraphQL API and draws every pixel you se
 <!-- gen:snapshot -->
 > **Live snapshot** · 1448 contributions in the last 365 days · 599 commits · 220 pull requests · 15 repositories touched in the last 90 days · current streak 5 days.
 >
-> Rendered 2026-09-24 21:28 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
+> Rendered 2026-09-25 04:52 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
 <!-- /gen:snapshot -->
 
 ## Selected work
 
 <!-- gen:work -->
-**[rebar](https://github.com/Navesz/rebar)** — `JavaScript` · 2 ★ · updated 1d ago  
+**[rebar](https://github.com/Navesz/rebar)** — `JavaScript` · 2 ★ · updated 2d ago  
 Repository checker and merge gate for projects written with AI agents. Audits any repository, scans versioned files for known prompt-injection signatures, and blocks the commit when a rule is ignored. Zero runtime dependencies.
 
 **[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated 7d ago  
@@ -36,7 +36,7 @@ Local-first parts interchange lab. Cross-reference automotive part numbers entir
 **[Constellation](https://github.com/Navesz/constellation)** — `TypeScript` · updated today  
 An observatory for public GitHub signals — profiles, achievements and activity, measured honestly instead of gamified.
 
-**[Galegos](https://github.com/Navesz/Galegos)** — `TypeScript` · updated 29d ago  
+**[Galegos](https://github.com/Navesz/Galegos)** — `TypeScript` · updated 1mo ago  
 Digital menu that hands the finished order off to WhatsApp. Built for a real kitchen, so it had to survive real customers.
 <!-- /gen:work -->
 
