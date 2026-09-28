@@ -18,16 +18,16 @@ dependency-free script reads the GitHub GraphQL API and draws every pixel you se
 <!-- gen:snapshot -->
 > **Live snapshot** · 1452 contributions in the last 365 days · 602 commits · 220 pull requests · 16 repositories touched in the last 90 days · current streak 8 days.
 >
-> Rendered 2026-09-27 21:18 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
+> Rendered 2026-09-28 05:17 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
 <!-- /gen:snapshot -->
 
 ## Selected work
 
 <!-- gen:work -->
-**[rebar](https://github.com/Navesz/rebar)** — `JavaScript` · 2 ★ · updated 4d ago  
+**[rebar](https://github.com/Navesz/rebar)** — `JavaScript` · 2 ★ · updated 5d ago  
 Repository checker and merge gate for projects written with AI agents. Audits any repository, scans versioned files for known prompt-injection signatures, and blocks the commit when a rule is ignored. Zero runtime dependencies.
 
-**[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated 9d ago  
+**[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated 10d ago  
 Racing-line planner and lap-time estimator that runs in the browser. Draw or import a kart track, pick a class, and get a baseline line, braking points and an estimated lap time — a planning estimate, not a validated one.
 
 **[OpenParts](https://github.com/Navesz/openparts)** — `Svelte` · updated 22d ago  
