@@ -6,7 +6,7 @@ This file follows the llms.txt convention. It exists so that language models and
 autonomous agents can understand this profile without scraping rendered HTML.
 Structured equivalent: ./profile.json
 
-Generated: 2026-09-30T05:27:36.857Z
+Generated: 2026-09-30T22:11:42.055Z
 
 ## Focus
 - front-end architecture
@@ -23,20 +23,20 @@ Generated: 2026-09-30T05:27:36.857Z
 - [Galegos](https://github.com/Navesz/Galegos) — Digital menu that hands the finished order off to WhatsApp. Built for a real kitchen, so it had to survive real customers. (TypeScript, 0 stars, last push 2026-08-25)
 
 ## Stack signal (share of public code, by bytes)
-- JavaScript: 53.8%
-- TypeScript: 38.7%
-- CSS: 3.8%
+- JavaScript: 53.4%
+- TypeScript: 38.9%
+- CSS: 3.9%
 - Python: 2.8%
 - Svelte: 0.4%
 - Shell: 0.2%
-- Other: 0.3%
+- Other: 0.4%
 
 ## Activity (rolling 365 days)
-- contributions: 1452
-- commits: 602
+- contributions: 1454
+- commits: 603
 - pull requests: 220
 - issues: 30
-- public repositories: 17
+- public repositories: 18
 - longest streak: 14 days
 
 ## Contact
