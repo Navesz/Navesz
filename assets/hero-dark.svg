@@ -94,7 +94,7 @@
         style="animation-delay:-2.1s"/><line x1="722.2" y1="155.07" x2="703.8" y2="198.65" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.192" class="flow"
         style="animation-delay:-2.45s"/><line x1="848.99" y1="128.23" x2="888.18" y2="142.85" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.18" class="flow"
+        stroke-width="0.7" opacity="0.182" class="flow"
         style="animation-delay:-2.8s"/><line x1="848.99" y1="128.23" x2="819.71" y2="86.48" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.189" class="flow"
         style="animation-delay:-3.15s"/><line x1="785.84" y1="229.48" x2="819.75" y2="246.15" stroke="#5ee7ff"
@@ -102,19 +102,19 @@
         style="animation-delay:-3.5s"/><line x1="742.88" y1="104.75" x2="699.63" y2="122.92" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.182" class="flow"
         style="animation-delay:-3.85s"/><line x1="879.36" y1="184.27" x2="888.18" y2="142.85" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.18" class="flow"
+        stroke-width="0.7" opacity="0.182" class="flow"
         style="animation-delay:-4.2s"/><line x1="879.36" y1="184.27" x2="886.46" y2="227.92" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.152" class="flow"
         style="animation-delay:-4.55s"/><line x1="703.8" y1="198.65" x2="728.07" y2="253.61" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.179" class="flow"
+        stroke-width="0.7" opacity="0.18" class="flow"
         style="animation-delay:-4.9s"/><line x1="819.71" y1="86.48" x2="784.71" y2="126.14" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.189" class="flow"
         style="animation-delay:-5.25s"/><line x1="728.07" y1="253.61" x2="785.84" y2="229.48" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.179" class="flow"
+        stroke-width="0.7" opacity="0.18" class="flow"
         style="animation-delay:-5.6s"/><line x1="771.27" y1="56.79" x2="742.88" y2="104.75" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.176" class="flow"
+        stroke-width="0.7" opacity="0.179" class="flow"
         style="animation-delay:-5.95s"/><line x1="771.27" y1="56.79" x2="819.71" y2="86.48" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.176" class="flow"
+        stroke-width="0.7" opacity="0.179" class="flow"
         style="animation-delay:-6.3s"/><line x1="886.46" y1="227.92" x2="831.4" y2="201.48" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.152" class="flow"
         style="animation-delay:-6.65s"/>
@@ -170,36 +170,36 @@
         <circle cx="819.75" cy="246.15" r="20.45" fill="#78c7fd" opacity="0.13"/>
         <circle cx="819.75" cy="246.15" r="5.68" fill="#78c7fd"/>
       </g><g class="node" style="animation-delay:-3.46s">
-        <circle cx="699.63" cy="122.92" r="20.16" fill="#73ccfe" opacity="0.13"/>
-        <circle cx="699.63" cy="122.92" r="5.6" fill="#73ccfe"/>
+        <circle cx="699.63" cy="122.92" r="20.2" fill="#74cbfd" opacity="0.13"/>
+        <circle cx="699.63" cy="122.92" r="5.61" fill="#74cbfd"/>
       </g><g class="node" style="animation-delay:-2.12s">
-        <circle cx="888.18" cy="142.85" r="19.94" fill="#71cffe" opacity="0.13"/>
-        <circle cx="888.18" cy="142.85" r="5.54" fill="#71cffe"/>
+        <circle cx="888.18" cy="142.85" r="20.16" fill="#73ccfe" opacity="0.13"/>
+        <circle cx="888.18" cy="142.85" r="5.6" fill="#73ccfe"/>
       </g><g class="node" style="animation-delay:-0.2s">
-        <circle cx="728.07" cy="253.61" r="19.84" fill="#6fd1fe" opacity="0.13"/>
-        <circle cx="728.07" cy="253.61" r="5.51" fill="#6fd1fe"/>
+        <circle cx="728.07" cy="253.61" r="19.94" fill="#71cffe" opacity="0.13"/>
+        <circle cx="728.07" cy="253.61" r="5.54" fill="#71cffe"/>
       </g><g class="node" style="animation-delay:-1.17s">
-        <circle cx="771.27" cy="56.79" r="19.58" fill="#6cd5fe" opacity="0.13"/>
-        <circle cx="771.27" cy="56.79" r="5.44" fill="#6cd5fe"/>
+        <circle cx="771.27" cy="56.79" r="19.84" fill="#6fd1fe" opacity="0.13"/>
+        <circle cx="771.27" cy="56.79" r="5.51" fill="#6fd1fe"/>
       </g><g class="node" style="animation-delay:-1.36s">
         <circle cx="886.46" cy="227.92" r="17.1" fill="#5ae6f2" opacity="0.13"/>
         <circle cx="886.46" cy="227.92" r="4.75" fill="#5ae6f2"/>
       </g>
     
     <g opacity="0.85">
-      <circle cx="808.47" cy="162.91" r="11" fill="none"
+      <circle cx="699.63" cy="122.92" r="11" fill="none"
         stroke="#5ee7ff" stroke-width="0.9" stroke-dasharray="4 4">
         <animateTransform attributeName="transform" type="rotate"
-          from="0 808.47 162.91" to="360 808.47 162.91"
+          from="0 699.63 122.92" to="360 699.63 122.92"
           dur="14s" repeatCount="indefinite"/>
       </circle>
-      <path d="M 808.47 174.91 L 808.47 300 L 784 300"
+      <path d="M 699.63 134.92000000000002 L 699.63 300 L 784 300"
         fill="none" stroke="#5ee7ff" stroke-width="0.7" opacity="0.35"/>
-      <circle cx="808.47" cy="300" r="1.6" fill="#5ee7ff" opacity="0.6"/>
+      <circle cx="699.63" cy="300" r="1.6" fill="#5ee7ff" opacity="0.6"/>
     </g>
     <text x="976" y="303.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5"
       fill="#8b9ab5" letter-spacing="0.6">last signal
-      <tspan fill="#5ee7ff">rebar-site</tspan>
+      <tspan fill="#5ee7ff">boteco-status</tspan>
       <tspan fill="#5a6880">· today</tspan></text>
     <rect x="-170" y="0" width="170" height="350" fill="url(#sweep)">
       <animate attributeName="x" values="-170;1000" dur="12s" repeatCount="indefinite"/>
@@ -257,7 +257,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#233047" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#3ddc97" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-10-03 11:35 UTC</text>
+        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-10-04 05:46 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#5a6880" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
