@@ -171,11 +171,11 @@
         <circle cx="786.04" cy="250.22" r="20.66" fill="#2c60ce" opacity="0.13"/>
         <circle cx="786.04" cy="250.22" r="5.74" fill="#2c60ce"/>
       </g><g class="node" style="animation-delay:-0.99s">
-        <circle cx="718.65" cy="107.56" r="20.2" fill="#2368cd" opacity="0.13"/>
-        <circle cx="718.65" cy="107.56" r="5.61" fill="#2368cd"/>
+        <circle cx="718.65" cy="107.56" r="20.23" fill="#2368cd" opacity="0.13"/>
+        <circle cx="718.65" cy="107.56" r="5.62" fill="#2368cd"/>
       </g><g class="node" style="animation-delay:-2.55s">
-        <circle cx="897.82" cy="162.66" r="19.98" fill="#1e6ccc" opacity="0.13"/>
-        <circle cx="897.82" cy="162.66" r="5.55" fill="#1e6ccc"/>
+        <circle cx="897.82" cy="162.66" r="19.94" fill="#1e6ccc" opacity="0.13"/>
+        <circle cx="897.82" cy="162.66" r="5.54" fill="#1e6ccc"/>
       </g><g class="node" style="animation-delay:-2.62s">
         <circle cx="697.96" cy="224.17" r="19.91" fill="#1d6dcc" opacity="0.13"/>
         <circle cx="697.96" cy="224.17" r="5.53" fill="#1d6dcc"/>
@@ -204,7 +204,7 @@
     <text x="976" y="303.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5"
       fill="#5c6b83" letter-spacing="0.6">last signal
       <tspan fill="#0284c7">prumo</tspan>
-      <tspan fill="#8493a9">· today</tspan></text>
+      <tspan fill="#8493a9">· 1d ago</tspan></text>
     <rect x="-170" y="0" width="170" height="350" fill="url(#sweep)">
       <animate attributeName="x" values="-170;1000" dur="12s" repeatCount="indefinite"/>
     </rect>
@@ -261,7 +261,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#d3dcea" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#059669" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#8493a9" letter-spacing="0.8">17 repositories mapped · rendered 2026-10-07 05:52 UTC</text>
+        fill="#8493a9" letter-spacing="0.8">17 repositories mapped · rendered 2026-10-08 05:56 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#8493a9" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
