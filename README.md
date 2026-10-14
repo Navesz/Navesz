@@ -18,7 +18,7 @@ dependency-free script reads the GitHub GraphQL API and draws every pixel you se
 <!-- gen:snapshot -->
 > **Live snapshot** · 1480 contributions in the last 365 days · 613 commits · 220 pull requests · 17 repositories touched in the last 90 days · current streak 3 days.
 >
-> Rendered 2026-10-14 17:06 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
+> Rendered 2026-10-14 21:37 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
 <!-- /gen:snapshot -->
 
 ## Selected work
@@ -33,7 +33,7 @@ Racing-line planner and lap-time estimator that runs in the browser. Draw or imp
 **[OpenParts](https://github.com/Navesz/openparts)** — `Svelte` · updated 1mo ago  
 Local-first parts interchange lab. Cross-reference automotive part numbers entirely in the browser, with no backend to depend on.
 
-**[Constellation](https://github.com/Navesz/constellation)** — `TypeScript` · updated 19d ago  
+**[Constellation](https://github.com/Navesz/constellation)** — `TypeScript` · updated 20d ago  
 An observatory for public GitHub signals — profiles, achievements and activity, measured honestly instead of gamified.
 
 **[Galegos](https://github.com/Navesz/Galegos)** — `TypeScript` · updated 1mo ago  
