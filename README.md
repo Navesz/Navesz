@@ -16,15 +16,15 @@ Nothing on this page is a widget. No badge services, no vendor cards, no tracker
 dependency-free script reads the GitHub GraphQL API and draws every pixel you see here.
 
 <!-- gen:snapshot -->
-> **Live snapshot** · 1480 contributions in the last 365 days · 613 commits · 220 pull requests · 17 repositories touched in the last 90 days · current streak 3 days.
+> **Live snapshot** · 1480 contributions in the last 365 days · 613 commits · 220 pull requests · 17 repositories touched in the last 90 days · current streak 0 days.
 >
-> Rendered 2026-10-14 21:37 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
+> Rendered 2026-10-15 04:31 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
 <!-- /gen:snapshot -->
 
 ## Selected work
 
 <!-- gen:work -->
-**[rebar](https://github.com/Navesz/rebar)** — `JavaScript` · 2 ★ · updated 21d ago  
+**[rebar](https://github.com/Navesz/rebar)** — `JavaScript` · 2 ★ · updated 22d ago  
 Repository checker and merge gate for projects written with AI agents. Audits any repository, scans versioned files for known prompt-injection signatures, and blocks the commit when a rule is ignored. Zero runtime dependencies.
 
 **[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated 13d ago  
