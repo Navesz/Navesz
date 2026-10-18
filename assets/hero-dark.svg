@@ -167,8 +167,8 @@
         <circle cx="819.71" cy="86.48" r="19.84" fill="#6fd1fe" opacity="0.13"/>
         <circle cx="819.71" cy="86.48" r="5.51" fill="#6fd1fe"/>
       </g><g class="node" style="animation-delay:-3.74s">
-        <circle cx="819.75" cy="246.15" r="19.69" fill="#6ed3fe" opacity="0.13"/>
-        <circle cx="819.75" cy="246.15" r="5.47" fill="#6ed3fe"/>
+        <circle cx="819.75" cy="246.15" r="19.69" fill="#6dd4fe" opacity="0.13"/>
+        <circle cx="819.75" cy="246.15" r="5.47" fill="#6dd4fe"/>
       </g><g class="node" style="animation-delay:-3.46s">
         <circle cx="699.63" cy="122.92" r="19.44" fill="#6ad7fe" opacity="0.13"/>
         <circle cx="699.63" cy="122.92" r="5.4" fill="#6ad7fe"/>
@@ -257,7 +257,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#233047" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#3ddc97" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-10-17 10:36 UTC</text>
+        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-10-18 04:25 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#5a6880" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
