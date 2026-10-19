@@ -152,8 +152,8 @@
         <circle cx="848.99" cy="128.23" r="22.75" fill="#95a1fb" opacity="0.13"/>
         <circle cx="848.99" cy="128.23" r="6.32" fill="#95a1fb"/>
       </g><g class="node" style="animation-delay:-0.89s">
-        <circle cx="785.84" cy="229.48" r="22.68" fill="#95a2fb" opacity="0.13"/>
-        <circle cx="785.84" cy="229.48" r="6.3" fill="#95a2fb"/>
+        <circle cx="785.84" cy="229.48" r="22.72" fill="#95a2fb" opacity="0.13"/>
+        <circle cx="785.84" cy="229.48" r="6.31" fill="#95a2fb"/>
       </g><g class="node" style="animation-delay:-1.91s">
         <circle cx="742.88" cy="104.75" r="21.92" fill="#8baffc" opacity="0.13"/>
         <circle cx="742.88" cy="104.75" r="6.09" fill="#8baffc"/>
@@ -164,20 +164,20 @@
         <circle cx="703.8" cy="198.65" r="20.09" fill="#73cdfe" opacity="0.13"/>
         <circle cx="703.8" cy="198.65" r="5.58" fill="#73cdfe"/>
       </g><g class="node" style="animation-delay:-2.84s">
-        <circle cx="819.71" cy="86.48" r="19.84" fill="#6fd1fe" opacity="0.13"/>
-        <circle cx="819.71" cy="86.48" r="5.51" fill="#6fd1fe"/>
+        <circle cx="819.71" cy="86.48" r="19.84" fill="#70d1fe" opacity="0.13"/>
+        <circle cx="819.71" cy="86.48" r="5.51" fill="#70d1fe"/>
       </g><g class="node" style="animation-delay:-3.74s">
-        <circle cx="819.75" cy="246.15" r="19.69" fill="#6dd4fe" opacity="0.13"/>
-        <circle cx="819.75" cy="246.15" r="5.47" fill="#6dd4fe"/>
+        <circle cx="819.75" cy="246.15" r="19.66" fill="#6dd4fe" opacity="0.13"/>
+        <circle cx="819.75" cy="246.15" r="5.46" fill="#6dd4fe"/>
       </g><g class="node" style="animation-delay:-3.46s">
-        <circle cx="699.63" cy="122.92" r="19.44" fill="#6ad7fe" opacity="0.13"/>
-        <circle cx="699.63" cy="122.92" r="5.4" fill="#6ad7fe"/>
+        <circle cx="699.63" cy="122.92" r="19.48" fill="#6bd7fe" opacity="0.13"/>
+        <circle cx="699.63" cy="122.92" r="5.41" fill="#6bd7fe"/>
       </g><g class="node" style="animation-delay:-2.12s">
         <circle cx="888.18" cy="142.85" r="19.15" fill="#67dcfe" opacity="0.13"/>
         <circle cx="888.18" cy="142.85" r="5.32" fill="#67dcfe"/>
       </g><g class="node" style="animation-delay:-0.2s">
-        <circle cx="728.07" cy="253.61" r="18.83" fill="#63e1ff" opacity="0.13"/>
-        <circle cx="728.07" cy="253.61" r="5.23" fill="#63e1ff"/>
+        <circle cx="728.07" cy="253.61" r="18.83" fill="#62e2ff" opacity="0.13"/>
+        <circle cx="728.07" cy="253.61" r="5.23" fill="#62e2ff"/>
       </g><g class="node" style="animation-delay:-1.17s">
         <circle cx="771.27" cy="56.79" r="18.83" fill="#62e2ff" opacity="0.13"/>
         <circle cx="771.27" cy="56.79" r="5.23" fill="#62e2ff"/>
@@ -200,7 +200,7 @@
     <text x="976" y="303.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5"
       fill="#8b9ab5" letter-spacing="0.6">last signal
       <tspan fill="#5ee7ff">rebar-site</tspan>
-      <tspan fill="#5a6880">· today</tspan></text>
+      <tspan fill="#5a6880">· 1d ago</tspan></text>
     <rect x="-170" y="0" width="170" height="350" fill="url(#sweep)">
       <animate attributeName="x" values="-170;1000" dur="12s" repeatCount="indefinite"/>
     </rect>
@@ -257,7 +257,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#233047" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#3ddc97" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-10-18 04:25 UTC</text>
+        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-10-19 04:34 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#5a6880" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
