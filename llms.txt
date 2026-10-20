@@ -6,7 +6,7 @@ This file follows the llms.txt convention. It exists so that language models and
 autonomous agents can understand this profile without scraping rendered HTML.
 Structured equivalent: ./profile.json
 
-Generated: 2026-10-20T04:43:06.037Z
+Generated: 2026-10-20T21:33:47.584Z
 
 ## Focus
 - front-end architecture
@@ -32,8 +32,8 @@ Generated: 2026-10-20T04:43:06.037Z
 - Other: 0.4%
 
 ## Activity (rolling 365 days)
-- contributions: 1480
-- commits: 613
+- contributions: 1313
+- commits: 450
 - pull requests: 220
 - issues: 30
 - public repositories: 18

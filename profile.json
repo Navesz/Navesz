@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "kind": "github-profile-manifest",
   "version": 1,
-  "generatedAt": "2026-10-20T04:43:06.037Z",
+  "generatedAt": "2026-10-20T21:33:47.584Z",
   "generator": "tools/render (no third-party services)",
   "identity": {
     "handle": "Navesz",
@@ -59,15 +59,15 @@
     ]
   },
   "activity": {
-    "contributions": 1480,
-    "commits": 613,
+    "contributions": 1313,
+    "commits": 450,
     "pullRequests": 220,
     "issues": 30,
     "publicRepos": 18,
     "languages": 12,
     "currentStreak": 0,
     "longestStreak": 14,
-    "avgPerWeek": 27.9,
+    "avgPerWeek": 24.8,
     "activeRepos": 17
   },
   "projects": [

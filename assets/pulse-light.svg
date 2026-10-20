@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 270" width="1000" height="270"
   role="img" aria-label="Weekly contribution activity over the last 52 weeks">
-  <title>Contribution rhythm — 1480 contributions in the last year</title>
+  <title>Contribution rhythm — 1313 contributions in the last year</title>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f5f7fc"/>
@@ -33,15 +33,15 @@
   <text x="56" y="36" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="2.6"
     fill="#5c6b83">CONTRIBUTION RHYTHM — 52 WEEKS</text>
   <text x="944" y="36" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10"
-    letter-spacing="1.4" fill="#8493a9">AVG 27.9/WEEK</text>
+    letter-spacing="1.4" fill="#8493a9">AVG 24.8/WEEK</text>
 
   <line x1="56" y1="129" x2="944" y2="129" stroke="#e3e9f3"
           stroke-width="1" stroke-dasharray="2 6"/>
         <text x="46" y="132.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace"
-          font-size="9" fill="#8493a9">140</text><line x1="56" y1="76" x2="944" y2="76" stroke="#e3e9f3"
+          font-size="9" fill="#8493a9">112</text><line x1="56" y1="76" x2="944" y2="76" stroke="#e3e9f3"
           stroke-width="1" stroke-dasharray="2 6"/>
         <text x="46" y="79.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace"
-          font-size="9" fill="#8493a9">443</text>
+          font-size="9" fill="#8493a9">355</text>
   <line x1="56" y1="182" x2="944" y2="182" stroke="#d3dcea" stroke-width="1"/>
   <rect x="56" y="181.1" width="13.42" height="0.9" rx="3.5"
         fill="url(#bars)" opacity="0.35" class="grow"
@@ -105,52 +105,52 @@
         fill="url(#bars)" opacity="0.35" class="grow"
         style="animation-delay:0.406s"/><rect x="560.6" y="181.1" width="13.42" height="0.9" rx="3.5"
         fill="url(#bars)" opacity="0.35" class="grow"
-        style="animation-delay:0.42s"/><rect x="577.42" y="173.98" width="13.42" height="8.02" rx="3.5"
+        style="animation-delay:0.42s"/><rect x="577.42" y="171.95" width="13.42" height="10.05" rx="3.5"
         fill="url(#bars)" class="grow"
         style="animation-delay:0.434s"/><rect x="594.24" y="181.1" width="13.42" height="0.9" rx="3.5"
         fill="url(#bars)" opacity="0.35" class="grow"
         style="animation-delay:0.448s"/><rect x="611.06" y="181.1" width="13.42" height="0.9" rx="3.5"
         fill="url(#bars)" opacity="0.35" class="grow"
-        style="animation-delay:0.462s"/><rect x="627.88" y="168.66" width="13.42" height="13.34" rx="3.5"
+        style="animation-delay:0.462s"/><rect x="627.88" y="166.76" width="13.42" height="15.24" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.476s"/><rect x="644.7" y="168.1" width="13.42" height="13.9" rx="3.5"
+        style="animation-delay:0.476s"/><rect x="644.7" y="166.12" width="13.42" height="15.88" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.49s"/><rect x="661.52" y="168.1" width="13.42" height="13.9" rx="3.5"
+        style="animation-delay:0.49s"/><rect x="661.52" y="166.12" width="13.42" height="15.88" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.504s"/><rect x="678.34" y="164.99" width="13.42" height="17.01" rx="3.5"
+        style="animation-delay:0.504s"/><rect x="678.34" y="164.88" width="13.42" height="17.12" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.518s"/><rect x="695.16" y="143.76" width="13.42" height="38.24" rx="3.5"
+        style="animation-delay:0.518s"/><rect x="695.16" y="143.02" width="13.42" height="38.98" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.532s"/><rect x="711.98" y="158.88" width="13.42" height="23.12" rx="3.5"
+        style="animation-delay:0.532s"/><rect x="711.98" y="155.6" width="13.42" height="26.4" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.546s"/><rect x="728.8" y="121.29" width="13.42" height="60.71" rx="3.5"
+        style="animation-delay:0.546s"/><rect x="728.8" y="113.14" width="13.42" height="68.86" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.56s"/><rect x="745.62" y="131.67" width="13.42" height="50.33" rx="3.5"
+        style="animation-delay:0.56s"/><rect x="745.62" y="130.96" width="13.42" height="51.04" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.574s"/><rect x="762.44" y="148.8" width="13.42" height="33.2" rx="3.5"
+        style="animation-delay:0.574s"/><rect x="762.44" y="150.09" width="13.42" height="31.91" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.588s"/><rect x="779.26" y="149.11" width="13.42" height="32.89" rx="3.5"
+        style="animation-delay:0.588s"/><rect x="779.26" y="144.44" width="13.42" height="37.56" rx="3.5"
         fill="url(#bars)" class="grow"
         style="animation-delay:0.602s"/><rect x="796.08" y="76" width="13.42" height="106" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.616s"/><rect x="812.9" y="138.08" width="13.42" height="43.92" rx="3.5"
+        style="animation-delay:0.616s"/><rect x="812.9" y="138.65" width="13.42" height="43.35" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.63s"/><rect x="829.72" y="139.92" width="13.42" height="42.08" rx="3.5"
+        style="animation-delay:0.63s"/><rect x="829.72" y="133.94" width="13.42" height="48.06" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.644s"/><rect x="846.54" y="128.67" width="13.42" height="53.33" rx="3.5"
+        style="animation-delay:0.644s"/><rect x="846.54" y="120.83" width="13.42" height="61.17" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.658s"/><rect x="863.36" y="152.35" width="13.42" height="29.65" rx="3.5"
+        style="animation-delay:0.658s"/><rect x="863.36" y="148.14" width="13.42" height="33.86" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.672s"/><rect x="880.18" y="176.71" width="13.42" height="5.29" rx="3.5"
+        style="animation-delay:0.672s"/><rect x="880.18" y="175.95" width="13.42" height="6.05" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.686s"/><rect x="897" y="173.2" width="13.42" height="8.8" rx="3.5"
+        style="animation-delay:0.686s"/><rect x="897" y="171.95" width="13.42" height="10.05" rx="3.5"
         fill="url(#bars)" class="grow"
-        style="animation-delay:0.7s"/><rect x="913.82" y="165.98" width="13.42" height="16.02" rx="3.5"
+        style="animation-delay:0.7s"/><rect x="913.82" y="163.7" width="13.42" height="18.3" rx="3.5"
         fill="url(#bars)" class="grow"
         style="animation-delay:0.714s"/><rect x="930.64" y="181.1" width="13.42" height="0.9" rx="3.5"
         fill="url(#bars)" opacity="0.35" class="grow"
         style="animation-delay:0.728s"/>
-  <path d="M 62.71 182 C 65.79 182 73.36 182 79.53 182 C 85.7 182 90.18 182 96.35 182 C 102.52 182 107 182 113.17 182 C 119.34 182 123.82 182 129.99 182 C 136.16 182 140.64 182 146.81 182 C 152.98 182 157.46 182 163.63 182 C 169.8 182 174.28 182 180.45 182 C 186.62 182 191.1 182 197.27 182 C 203.44 182 207.92 182 214.09 182 C 220.26 182 224.74 182 230.91 182 C 237.08 182 241.56 182 247.73 182 C 253.9 182 258.38 182 264.55 182 C 270.72 182 275.2 182 281.37 182 C 287.54 182 292.02 182 298.19 182 C 304.36 182 308.84 182 315.01 182 C 321.18 182 325.66 182 331.83 182 C 338 182 342.48 182 348.65 182 C 354.82 182 359.3 182 365.47 182 C 371.64 182 376.12 182 382.29 182 C 388.46 182 392.94 182 399.11 182 C 405.28 182 409.76 182 415.93 182 C 422.1 182 426.58 182 432.75 182 C 438.92 182 443.4 182 449.57 182 C 455.74 182 460.22 182 466.39 182 C 472.56 182 477.04 182 483.21 182 C 489.38 182 493.86 182 500.03 182 C 506.2 182 510.68 182 516.85 182 C 523.02 182 527.5 182 533.67 182 C 539.84 182 544.32 182 550.49 182 C 556.66 182 561.14 183.47 567.31 182 C 573.48 180.53 577.96 173.98 584.13 173.98 C 590.3 173.98 594.78 180.53 600.95 182 C 607.12 183.47 611.6 184.45 617.77 182 C 623.94 179.55 628.42 171.21 634.59 168.66 C 640.76 166.11 645.24 168.2 651.41 168.1 C 657.58 168 662.06 168.67 668.23 168.1 C 674.4 167.53 678.88 169.45 685.05 164.99 C 691.22 160.53 695.7 144.88 701.87 143.76 C 708.04 142.64 712.52 163 718.69 158.88 C 724.86 154.76 729.34 126.28 735.51 121.29 C 741.68 116.3 746.16 126.63 752.33 131.67 C 758.5 136.71 762.98 145.6 769.15 148.8 C 775.32 152 779.8 162.46 785.97 149.11 C 792.14 135.76 796.62 78.02 802.79 76 C 808.96 73.98 813.44 126.36 819.61 138.08 C 825.78 149.8 830.26 141.65 836.43 139.92 C 842.6 138.19 847.08 126.39 853.25 128.67 C 859.42 130.95 863.9 143.54 870.07 152.35 C 876.24 161.16 880.72 172.89 886.89 176.71 C 893.06 180.53 897.54 175.17 903.71 173.2 C 909.88 171.23 914.36 164.37 920.53 165.98 C 926.7 167.59 934.27 179.06 937.35 182" fill="none" stroke="#0c1424" stroke-width="1.4"
+  <path d="M 62.71 182 C 65.79 182 73.36 182 79.53 182 C 85.7 182 90.18 182 96.35 182 C 102.52 182 107 182 113.17 182 C 119.34 182 123.82 182 129.99 182 C 136.16 182 140.64 182 146.81 182 C 152.98 182 157.46 182 163.63 182 C 169.8 182 174.28 182 180.45 182 C 186.62 182 191.1 182 197.27 182 C 203.44 182 207.92 182 214.09 182 C 220.26 182 224.74 182 230.91 182 C 237.08 182 241.56 182 247.73 182 C 253.9 182 258.38 182 264.55 182 C 270.72 182 275.2 182 281.37 182 C 287.54 182 292.02 182 298.19 182 C 304.36 182 308.84 182 315.01 182 C 321.18 182 325.66 182 331.83 182 C 338 182 342.48 182 348.65 182 C 354.82 182 359.3 182 365.47 182 C 371.64 182 376.12 182 382.29 182 C 388.46 182 392.94 182 399.11 182 C 405.28 182 409.76 182 415.93 182 C 422.1 182 426.58 182 432.75 182 C 438.92 182 443.4 182 449.57 182 C 455.74 182 460.22 182 466.39 182 C 472.56 182 477.04 182 483.21 182 C 489.38 182 493.86 182 500.03 182 C 506.2 182 510.68 182 516.85 182 C 523.02 182 527.5 182 533.67 182 C 539.84 182 544.32 182 550.49 182 C 556.66 182 561.14 183.84 567.31 182 C 573.48 180.16 577.96 171.95 584.13 171.95 C 590.3 171.95 594.78 180.16 600.95 182 C 607.12 183.84 611.6 184.79 617.77 182 C 623.94 179.21 628.42 169.67 634.59 166.76 C 640.76 163.85 645.24 166.24 651.41 166.12 C 657.58 166 662.06 166.35 668.23 166.12 C 674.4 165.89 678.88 169.12 685.05 164.88 C 691.22 160.64 695.7 144.72 701.87 143.02 C 708.04 141.32 712.52 161.08 718.69 155.6 C 724.86 150.12 729.34 117.66 735.51 113.14 C 741.68 108.62 746.16 124.19 752.33 130.96 C 758.5 137.73 762.98 147.62 769.15 150.09 C 775.32 152.56 779.8 158.02 785.97 144.44 C 792.14 130.86 796.62 77.06 802.79 76 C 808.96 74.94 813.44 128.03 819.61 138.65 C 825.78 149.27 830.26 137.21 836.43 133.94 C 842.6 130.67 847.08 118.23 853.25 120.83 C 859.42 123.43 863.9 138.03 870.07 148.14 C 876.24 158.25 880.72 171.58 886.89 175.95 C 893.06 180.32 897.54 174.2 903.71 171.95 C 909.88 169.7 914.36 161.86 920.53 163.7 C 926.7 165.54 934.27 178.65 937.35 182" fill="none" stroke="#0c1424" stroke-width="1.4"
     stroke-linecap="round" opacity="0.5" class="line"/>
 
   <g>
@@ -159,7 +159,7 @@
       stroke-width="0.9" class="ping"/>
     <text x="810.8" y="66" text-anchor="start"
       font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#5c6b83">peak
-      <tspan fill="#6d28d9" font-weight="700">443</tspan></text>
+      <tspan fill="#6d28d9" font-weight="700">355</tspan></text>
   </g>
 
   <text x="56" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5"
@@ -180,12 +180,12 @@
   <line x1="56" y1="214" x2="944" y2="214" stroke="#d3dcea" stroke-width="1"/>
   
     <text x="56" y="240" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700"
-      fill="#0284c7">1480</text>
+      fill="#0284c7">1313</text>
     <text x="56" y="256" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" letter-spacing="1.6"
       fill="#8493a9">TOTAL / 365D</text>
   
     <text x="240" y="240" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700"
-      fill="#0c1424">613</text>
+      fill="#0c1424">450</text>
     <text x="240" y="256" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" letter-spacing="1.6"
       fill="#8493a9">COMMITS</text>
   
