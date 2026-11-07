@@ -88,7 +88,7 @@
         style="animation-delay:-1.05s"/><line x1="831.4" y1="201.48" x2="808.47" y2="162.91" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.2" class="flow"
         style="animation-delay:-1.4s"/><line x1="831.4" y1="201.48" x2="819.75" y2="246.15" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.163" class="flow"
+        stroke-width="0.7" opacity="0.164" class="flow"
         style="animation-delay:-1.75s"/><line x1="722.2" y1="155.07" x2="699.63" y2="122.92" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.16" class="flow"
         style="animation-delay:-2.1s"/><line x1="722.2" y1="155.07" x2="703.8" y2="198.65" stroke="#5ee7ff"
@@ -98,7 +98,7 @@
         style="animation-delay:-2.8s"/><line x1="848.99" y1="128.23" x2="819.71" y2="86.48" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.166" class="flow"
         style="animation-delay:-3.15s"/><line x1="785.84" y1="229.48" x2="819.75" y2="246.15" stroke="#5ee7ff"
-        stroke-width="0.7" opacity="0.163" class="flow"
+        stroke-width="0.7" opacity="0.164" class="flow"
         style="animation-delay:-3.5s"/><line x1="742.88" y1="104.75" x2="699.63" y2="122.92" stroke="#5ee7ff"
         stroke-width="0.7" opacity="0.16" class="flow"
         style="animation-delay:-3.85s"/><line x1="879.36" y1="184.27" x2="888.18" y2="142.85" stroke="#5ee7ff"
@@ -143,8 +143,8 @@
               <animate attributeName="opacity" values="0.6;0" dur="3.4s"
                 begin="2.2s" repeatCount="indefinite"/>
             </circle><g class="node" style="animation-delay:-0.07s">
-        <circle cx="831.4" cy="201.48" r="22" fill="#8caefc" opacity="0.13"/>
-        <circle cx="831.4" cy="201.48" r="6.11" fill="#8caefc"/>
+        <circle cx="831.4" cy="201.48" r="22" fill="#8cadfc" opacity="0.13"/>
+        <circle cx="831.4" cy="201.48" r="6.11" fill="#8cadfc"/>
       </g><g class="node" style="animation-delay:-0.23s">
         <circle cx="722.2" cy="155.07" r="21.82" fill="#89b1fc" opacity="0.13"/>
         <circle cx="722.2" cy="155.07" r="6.06" fill="#89b1fc"/>
@@ -152,23 +152,23 @@
         <circle cx="848.99" cy="128.23" r="21.71" fill="#88b3fc" opacity="0.13"/>
         <circle cx="848.99" cy="128.23" r="6.03" fill="#88b3fc"/>
       </g><g class="node" style="animation-delay:-0.89s">
-        <circle cx="785.84" cy="229.48" r="21.24" fill="#82bafd" opacity="0.13"/>
-        <circle cx="785.84" cy="229.48" r="5.9" fill="#82bafd"/>
+        <circle cx="785.84" cy="229.48" r="21.28" fill="#82bafd" opacity="0.13"/>
+        <circle cx="785.84" cy="229.48" r="5.91" fill="#82bafd"/>
       </g><g class="node" style="animation-delay:-1.91s">
-        <circle cx="742.88" cy="104.75" r="20.34" fill="#76c9fd" opacity="0.13"/>
-        <circle cx="742.88" cy="104.75" r="5.65" fill="#76c9fd"/>
+        <circle cx="742.88" cy="104.75" r="20.34" fill="#76c8fd" opacity="0.13"/>
+        <circle cx="742.88" cy="104.75" r="5.65" fill="#76c8fd"/>
       </g><g class="node" style="animation-delay:-3.48s">
-        <circle cx="879.36" cy="184.27" r="20.3" fill="#76c9fd" opacity="0.13"/>
-        <circle cx="879.36" cy="184.27" r="5.64" fill="#76c9fd"/>
+        <circle cx="879.36" cy="184.27" r="20.34" fill="#76c9fd" opacity="0.13"/>
+        <circle cx="879.36" cy="184.27" r="5.65" fill="#76c9fd"/>
       </g><g class="node" style="animation-delay:-1.72s">
-        <circle cx="703.8" cy="198.65" r="18.76" fill="#62e2ff" opacity="0.13"/>
-        <circle cx="703.8" cy="198.65" r="5.21" fill="#62e2ff"/>
+        <circle cx="703.8" cy="198.65" r="18.79" fill="#62e2ff" opacity="0.13"/>
+        <circle cx="703.8" cy="198.65" r="5.22" fill="#62e2ff"/>
       </g><g class="node" style="animation-delay:-2.84s">
         <circle cx="819.71" cy="86.48" r="18.54" fill="#5fe6ff" opacity="0.13"/>
         <circle cx="819.71" cy="86.48" r="5.15" fill="#5fe6ff"/>
       </g><g class="node" style="animation-delay:-3.74s">
-        <circle cx="819.75" cy="246.15" r="18.25" fill="#5de7fd" opacity="0.13"/>
-        <circle cx="819.75" cy="246.15" r="5.07" fill="#5de7fd"/>
+        <circle cx="819.75" cy="246.15" r="18.29" fill="#5de7fd" opacity="0.13"/>
+        <circle cx="819.75" cy="246.15" r="5.08" fill="#5de7fd"/>
       </g><g class="node" style="animation-delay:-3.46s">
         <circle cx="699.63" cy="122.92" r="17.96" fill="#5ce6fa" opacity="0.13"/>
         <circle cx="699.63" cy="122.92" r="4.99" fill="#5ce6fa"/>
@@ -200,7 +200,7 @@
     <text x="976" y="303.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5"
       fill="#8b9ab5" letter-spacing="0.6">last signal
       <tspan fill="#5ee7ff">openkartline</tspan>
-      <tspan fill="#5a6880">· 1d ago</tspan></text>
+      <tspan fill="#5a6880">· 2d ago</tspan></text>
     <rect x="-170" y="0" width="170" height="350" fill="url(#sweep)">
       <animate attributeName="x" values="-170;1000" dur="12s" repeatCount="indefinite"/>
     </rect>
@@ -257,7 +257,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#233047" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#3ddc97" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-11-06 06:33 UTC</text>
+        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-11-07 05:52 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#5a6880" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
