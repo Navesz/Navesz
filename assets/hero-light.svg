@@ -165,8 +165,8 @@
         <circle cx="704.34" cy="170.83" r="19.76" fill="#1a6fcb" opacity="0.13"/>
         <circle cx="704.34" cy="170.83" r="5.49" fill="#1a6fcb"/>
       </g><g class="node" style="animation-delay:-1.96s">
-        <circle cx="847.91" cy="106.89" r="18.32" fill="#0284c5" opacity="0.13"/>
-        <circle cx="847.91" cy="106.89" r="5.09" fill="#0284c5"/>
+        <circle cx="847.91" cy="106.89" r="18.32" fill="#0284c6" opacity="0.13"/>
+        <circle cx="847.91" cy="106.89" r="5.09" fill="#0284c6"/>
       </g><g class="node" style="animation-delay:-1.65s">
         <circle cx="786.04" cy="250.22" r="18.07" fill="#0285c3" opacity="0.13"/>
         <circle cx="786.04" cy="250.22" r="5.02" fill="#0285c3"/>
@@ -177,8 +177,8 @@
         <circle cx="897.82" cy="162.66" r="17.53" fill="#0286bf" opacity="0.13"/>
         <circle cx="897.82" cy="162.66" r="4.87" fill="#0286bf"/>
       </g><g class="node" style="animation-delay:-2.62s">
-        <circle cx="697.96" cy="224.17" r="17.28" fill="#0286bd" opacity="0.13"/>
-        <circle cx="697.96" cy="224.17" r="4.8" fill="#0286bd"/>
+        <circle cx="697.96" cy="224.17" r="17.28" fill="#0286bc" opacity="0.13"/>
+        <circle cx="697.96" cy="224.17" r="4.8" fill="#0286bc"/>
       </g><g class="node" style="animation-delay:-2.64s">
         <circle cx="797.43" cy="66.59" r="17.21" fill="#0286bc" opacity="0.13"/>
         <circle cx="797.43" cy="66.59" r="4.78" fill="#0286bc"/>
@@ -261,7 +261,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#d3dcea" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#059669" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#8493a9" letter-spacing="0.8">17 repositories mapped · rendered 2026-11-13 19:37 UTC</text>
+        fill="#8493a9" letter-spacing="0.8">17 repositories mapped · rendered 2026-11-14 06:12 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#8493a9" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
