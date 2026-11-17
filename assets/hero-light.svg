@@ -159,14 +159,14 @@
         <circle cx="780.39" cy="102.37" r="20.77" fill="#2d5fce" opacity="0.13"/>
         <circle cx="780.39" cy="102.37" r="5.77" fill="#2d5fce"/>
       </g><g class="node" style="animation-delay:-1.63s">
-        <circle cx="865.24" cy="202.09" r="19.84" fill="#1b6ecb" opacity="0.13"/>
-        <circle cx="865.24" cy="202.09" r="5.51" fill="#1b6ecb"/>
+        <circle cx="865.24" cy="202.09" r="19.84" fill="#1c6ecb" opacity="0.13"/>
+        <circle cx="865.24" cy="202.09" r="5.51" fill="#1c6ecb"/>
       </g><g class="node" style="animation-delay:-1.94s">
         <circle cx="704.34" cy="170.83" r="19.76" fill="#1a6fcb" opacity="0.13"/>
         <circle cx="704.34" cy="170.83" r="5.49" fill="#1a6fcb"/>
       </g><g class="node" style="animation-delay:-1.96s">
-        <circle cx="847.91" cy="106.89" r="18.32" fill="#0284c6" opacity="0.13"/>
-        <circle cx="847.91" cy="106.89" r="5.09" fill="#0284c6"/>
+        <circle cx="847.91" cy="106.89" r="18.36" fill="#0284c6" opacity="0.13"/>
+        <circle cx="847.91" cy="106.89" r="5.1" fill="#0284c6"/>
       </g><g class="node" style="animation-delay:-1.65s">
         <circle cx="786.04" cy="250.22" r="18.11" fill="#0285c4" opacity="0.13"/>
         <circle cx="786.04" cy="250.22" r="5.03" fill="#0285c4"/>
@@ -186,8 +186,8 @@
         <circle cx="850.22" cy="257.01" r="17.06" fill="#0286bb" opacity="0.13"/>
         <circle cx="850.22" cy="257.01" r="4.74" fill="#0286bb"/>
       </g><g class="node" style="animation-delay:-2.03s">
-        <circle cx="680.68" cy="142.68" r="14.98" fill="#038aa9" opacity="0.13"/>
-        <circle cx="680.68" cy="142.68" r="4.16" fill="#038aa9"/>
+        <circle cx="680.68" cy="142.68" r="15.01" fill="#038aa9" opacity="0.13"/>
+        <circle cx="680.68" cy="142.68" r="4.17" fill="#038aa9"/>
       </g>
     
     <g opacity="0.85">
@@ -261,7 +261,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#d3dcea" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#059669" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#8493a9" letter-spacing="0.8">17 repositories mapped · rendered 2026-11-16 21:57 UTC</text>
+        fill="#8493a9" letter-spacing="0.8">17 repositories mapped · rendered 2026-11-17 07:48 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#8493a9" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
