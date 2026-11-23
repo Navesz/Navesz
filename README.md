@@ -16,9 +16,9 @@ Nothing on this page is a widget. No badge services, no vendor cards, no tracker
 dependency-free script reads the GitHub GraphQL API and draws every pixel you see here.
 
 <!-- gen:snapshot -->
-> **Live snapshot** · 1317 contributions in the last 365 days · 450 commits · 220 pull requests · 16 repositories touched in the last 90 days · current streak 0 days.
+> **Live snapshot** · 1317 contributions in the last 365 days · 450 commits · 220 pull requests · 13 repositories touched in the last 90 days · current streak 0 days.
 >
-> Rendered 2026-11-23 07:27 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
+> Rendered 2026-11-23 23:48 UTC by [`tools/render`](tools/render) — every number and every pixel above comes from the GitHub GraphQL API, not from a third-party badge service.
 <!-- /gen:snapshot -->
 
 ## Selected work
@@ -27,16 +27,16 @@ dependency-free script reads the GitHub GraphQL API and draws every pixel you se
 **[rebar](https://github.com/Navesz/rebar)** — `JavaScript` · 2 ★ · updated 2mo ago  
 Repository checker and merge gate for projects written with AI agents. Audits any repository, scans versioned files for known prompt-injection signatures, and blocks the commit when a rule is ignored. Zero runtime dependencies.
 
-**[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated 18d ago  
+**[OpenKartline](https://github.com/Navesz/openkartline)** — `TypeScript` · updated 19d ago  
 Racing-line planner and lap-time estimator that runs in the browser. Draw or import a kart track, pick a class, and get a baseline line, braking points and an estimated lap time — a planning estimate, not a validated one.
 
 **[OpenParts](https://github.com/Navesz/openparts)** — `Svelte` · updated 2mo ago  
 Local-first parts interchange lab. Cross-reference automotive part numbers entirely in the browser, with no backend to depend on.
 
-**[Constellation](https://github.com/Navesz/constellation)** — `TypeScript` · updated 1mo ago  
+**[Constellation](https://github.com/Navesz/constellation)** — `TypeScript` · updated 2mo ago  
 An observatory for public GitHub signals — profiles, achievements and activity, measured honestly instead of gamified.
 
-**[Galegos](https://github.com/Navesz/Galegos)** — `TypeScript` · updated 2mo ago  
+**[Galegos](https://github.com/Navesz/Galegos)** — `TypeScript` · updated 3mo ago  
 Digital menu that hands the finished order off to WhatsApp. Built for a real kitchen, so it had to survive real customers.
 <!-- /gen:work -->
 
