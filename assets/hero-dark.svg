@@ -155,14 +155,14 @@
         <circle cx="785.84" cy="229.48" r="20.09" fill="#73cdfe" opacity="0.13"/>
         <circle cx="785.84" cy="229.48" r="5.58" fill="#73cdfe"/>
       </g><g class="node" style="animation-delay:-1.91s">
-        <circle cx="742.88" cy="104.75" r="19.15" fill="#67dcfe" opacity="0.13"/>
-        <circle cx="742.88" cy="104.75" r="5.32" fill="#67dcfe"/>
+        <circle cx="742.88" cy="104.75" r="19.19" fill="#67dcfe" opacity="0.13"/>
+        <circle cx="742.88" cy="104.75" r="5.33" fill="#67dcfe"/>
       </g><g class="node" style="animation-delay:-3.48s">
         <circle cx="879.36" cy="184.27" r="19.08" fill="#66defe" opacity="0.13"/>
         <circle cx="879.36" cy="184.27" r="5.3" fill="#66defe"/>
       </g><g class="node" style="animation-delay:-1.72s">
-        <circle cx="703.8" cy="198.65" r="17.75" fill="#5ce6f8" opacity="0.13"/>
-        <circle cx="703.8" cy="198.65" r="4.93" fill="#5ce6f8"/>
+        <circle cx="703.8" cy="198.65" r="17.78" fill="#5ce6f8" opacity="0.13"/>
+        <circle cx="703.8" cy="198.65" r="4.94" fill="#5ce6f8"/>
       </g><g class="node" style="animation-delay:-2.84s">
         <circle cx="819.71" cy="86.48" r="17.53" fill="#5be6f6" opacity="0.13"/>
         <circle cx="819.71" cy="86.48" r="4.87" fill="#5be6f6"/>
@@ -257,7 +257,7 @@
       <line x1="56" y1="318" x2="944" y2="318" stroke="#233047" stroke-width="1"/>
       <circle cx="60" cy="333" r="3" fill="#3ddc97" class="blink"/>
       <text x="70" y="336" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-11-24 09:47 UTC</text>
+        fill="#5a6880" letter-spacing="0.8">17 repositories mapped · rendered 2026-11-25 08:23 UTC</text>
       <text x="944" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
         fill="#5a6880" letter-spacing="1.4">NO THIRD&#8209;PARTY WIDGETS</text>
     </g>
